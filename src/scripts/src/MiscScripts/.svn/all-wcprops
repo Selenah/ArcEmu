@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4511/trunk/src/scripts/src/MiscScripts
+END
+Setup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/MiscScripts/Setup.cpp
+END
+GameObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/arcemu/!svn/ver/4511/trunk/src/scripts/src/MiscScripts/GameObjects.cpp
+END
+Setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/MiscScripts/Setup.h
+END
+GameObjectTeleportTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/MiscScripts/GameObjectTeleportTable.cpp
+END
+RandomScripts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/MiscScripts/RandomScripts.cpp
+END
+DarkmoonFaireObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/arcemu/!svn/ver/4503/trunk/src/scripts/src/MiscScripts/DarkmoonFaireObjects.cpp
+END
+Creatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/MiscScripts/Creatures.cpp
+END

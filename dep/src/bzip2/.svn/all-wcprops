@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/bzip2
+END
+crctable.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/bzip2/crctable.c
+END
+blocksort.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/bzip2/blocksort.c
+END
+bzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/bzip2/bzlib.c
+END
+decompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/bzip2/decompress.c
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/bzip2/huffman.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/bzip2/compress.c
+END
+randtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/bzip2/randtable.c
+END

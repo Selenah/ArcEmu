@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/bzip2
+END
+bzlib_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/bzip2/bzlib_private.h
+END
+bzlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/bzip2/bzlib.h
+END

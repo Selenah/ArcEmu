@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast
+END
+RecastMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/RecastMesh.cpp
+END
+RecastRasterization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/RecastRasterization.cpp
+END
+Recast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/Recast.cpp
+END
+RecastMeshDetail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/RecastMeshDetail.cpp
+END
+RecastRegion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/RecastRegion.cpp
+END
+RecastFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/RecastFilter.cpp
+END
+RecastArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/RecastArea.cpp
+END
+RecastContour.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/RecastContour.cpp
+END
+RecastAlloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/recast/RecastAlloc.cpp
+END

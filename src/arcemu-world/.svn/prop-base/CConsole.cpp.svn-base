@@ -1,0 +1,17 @@
+K 2
+ff
+V 158
+*.cpp = svn:eol-style=native
+Makefile = svn:eol-style=native
+README = svn:eol-style=native
+CHANGELOG = svn:eol-style=native
+LICENSE = svn:eol-style=native
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 15
+Date Author Rev
+END

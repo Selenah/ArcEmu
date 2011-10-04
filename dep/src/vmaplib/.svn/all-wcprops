@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/arcemu/!svn/ver/4452/trunk/dep/src/vmaplib
+END
+VMapManager2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4452/trunk/dep/src/vmaplib/VMapManager2.cpp
+END
+BIH.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4452/trunk/dep/src/vmaplib/BIH.cpp
+END
+ModelInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4452/trunk/dep/src/vmaplib/ModelInstance.cpp
+END
+WorldModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4452/trunk/dep/src/vmaplib/WorldModel.cpp
+END
+TileAssembler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4452/trunk/dep/src/vmaplib/TileAssembler.cpp
+END
+VMapFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4452/trunk/dep/src/vmaplib/VMapFactory.cpp
+END
+MapTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4452/trunk/dep/src/vmaplib/MapTree.cpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/detour
+END
+DetourNavMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/detour/DetourNavMesh.cpp
+END
+DetourNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/detour/DetourNode.cpp
+END
+DetourObstacleAvoidance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/detour/DetourObstacleAvoidance.cpp
+END
+DetourNavMeshQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/detour/DetourNavMeshQuery.cpp
+END
+DetourCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/detour/DetourCommon.cpp
+END
+DetourNavMeshBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/detour/DetourNavMeshBuilder.cpp
+END
+DetourAlloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/src/detour/DetourAlloc.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/extra_scripts
+END
+gameobject_teleports.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/extra_scripts/gameobject_teleports.sql
+END
+WeddingNPC.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/extra_scripts/WeddingNPC.sql
+END
+Portals.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/extra_scripts/Portals.sql
+END

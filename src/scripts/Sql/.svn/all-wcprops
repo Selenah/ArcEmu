@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/README.txt
+END
+ReadMeFirstEnables.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/ReadMeFirstEnables.txt
+END
+arcscripts_full.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/arcscripts_full.sql
+END

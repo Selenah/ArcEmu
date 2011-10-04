@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp
+END
+bugreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/bugreport.php
+END
+bugreports.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/bugreports.php
+END
+BugReportContentFieldParser.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/BugReportContentFieldParser.inc.php
+END
+Config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/Config.inc.php
+END
+BugReportListLoader.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/BugReportListLoader.inc.php
+END
+BugReportListRenderer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/BugReportListRenderer.inc.php
+END
+BugReportTypeFieldParser.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/BugReportTypeFieldParser.inc.php
+END
+BugReportLoader.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/BugReportLoader.inc.php
+END
+BugReportRenderer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleBugReportReaderApp/BugReportRenderer.inc.php
+END

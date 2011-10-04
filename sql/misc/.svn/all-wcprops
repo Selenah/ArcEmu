@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/misc
+END
+keypatch.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/misc/keypatch.sql
+END
+itemlimitcategory.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/misc/itemlimitcategory.sql
+END
+set_fixed_reset_time_to_specific_point_of_time.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/misc/set_fixed_reset_time_to_specific_point_of_time.sql
+END
+arena_map_info.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/misc/arena_map_info.sql
+END

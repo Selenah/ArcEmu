@@ -1,0 +1,43 @@
+10
+
+dir
+4620
+https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/dep
+https://arcemu.svn.sourceforge.net/svnroot/arcemu
+
+
+
+2011-08-16T08:22:06.510922Z
+4469
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+990fb233-584f-0410-a668-b69381bdf79e
+
+include
+dir
+
+dll64
+dir
+
+lib
+dir
+
+src
+dir
+
+dll
+dir
+

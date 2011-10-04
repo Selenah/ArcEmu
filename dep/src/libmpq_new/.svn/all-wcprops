@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/libmpq_new
+END
+explode.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/libmpq_new/explode.c
+END
+mpq_libmpq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/libmpq_new/mpq_libmpq.cpp
+END
+wave.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/libmpq_new/wave.c
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/libmpq_new/huffman.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/libmpq_new/common.c
+END
+extract.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/libmpq_new/extract.c
+END
+mpq.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/src/libmpq_new/mpq.c
+END

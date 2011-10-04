@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/arcemu/!svn/ver/4433/trunk/cmake_modules
+END
+CompilerVersion.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4232/trunk/cmake_modules/CompilerVersion.cmake
+END
+FindMySQL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4433/trunk/cmake_modules/FindMySQL.cmake
+END
+PCHSupport.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4212/trunk/cmake_modules/PCHSupport.cmake
+END
+FindPCRE.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4058/trunk/cmake_modules/FindPCRE.cmake
+END

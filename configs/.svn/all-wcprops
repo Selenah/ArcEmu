@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/arcemu/!svn/ver/4590/trunk/configs
+END
+logon.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/arcemu/!svn/ver/3868/trunk/configs/logon.conf
+END
+realms.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/arcemu/!svn/ver/3868/trunk/configs/realms.conf
+END
+optional.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/arcemu/!svn/ver/3868/trunk/configs/optional.conf
+END
+world.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/arcemu/!svn/ver/4590/trunk/configs/world.conf
+END

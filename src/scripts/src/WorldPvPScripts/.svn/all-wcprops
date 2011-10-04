@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/WorldPvPScripts
+END
+Setup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/WorldPvPScripts/Setup.cpp
+END
+ZoneSilithus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/WorldPvPScripts/ZoneSilithus.cpp
+END
+ZoneTerokkarForest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/WorldPvPScripts/ZoneTerokkarForest.cpp
+END
+ZoneHellfirePeninsula.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/WorldPvPScripts/ZoneHellfirePeninsula.cpp
+END
+ZoneZangarmarsh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/WorldPvPScripts/ZoneZangarmarsh.cpp
+END

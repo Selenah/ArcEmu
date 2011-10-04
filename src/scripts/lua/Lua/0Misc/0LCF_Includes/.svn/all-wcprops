@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/4481/trunk/src/scripts/lua/Lua/0Misc/0LCF_Includes
+END
+LCF_Player.lua
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/arcemu/!svn/ver/4481/trunk/src/scripts/lua/Lua/0Misc/0LCF_Includes/LCF_Player.lua
+END
+0LCF.lua
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4481/trunk/src/scripts/lua/Lua/0Misc/0LCF_Includes/0LCF.lua
+END
+LCF_Gameobject.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/arcemu/!svn/ver/4481/trunk/src/scripts/lua/Lua/0Misc/0LCF_Includes/LCF_Gameobject.lua
+END
+LCF_Extra.lua
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/4481/trunk/src/scripts/lua/Lua/0Misc/0LCF_Includes/LCF_Extra.lua
+END
+LCF_Creature.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/arcemu/!svn/ver/4481/trunk/src/scripts/lua/Lua/0Misc/0LCF_Includes/LCF_Creature.lua
+END

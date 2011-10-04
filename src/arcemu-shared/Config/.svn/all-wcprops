@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Config
+END
+ConfigEnv.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-shared/Config/ConfigEnv.h
+END
+Config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Config/Config.cpp
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Config/Config.h
+END

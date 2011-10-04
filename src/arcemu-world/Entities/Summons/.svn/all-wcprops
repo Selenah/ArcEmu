@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4459/trunk/src/arcemu-world/Entities/Summons
+END
+GuardianSummon.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/GuardianSummon.h
+END
+Summon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/arcemu/!svn/ver/4459/trunk/src/arcemu-world/Entities/Summons/Summon.cpp
+END
+WildSummon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/WildSummon.cpp
+END
+CompanionSummon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/CompanionSummon.cpp
+END
+Summon.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/Summon.h
+END
+WildSummon.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/WildSummon.h
+END
+CompanionSummon.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/CompanionSummon.h
+END
+PossessedSummon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/PossessedSummon.cpp
+END
+TotemSummon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/TotemSummon.cpp
+END
+GuardianSummon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/GuardianSummon.cpp
+END
+PossessedSummon.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/PossessedSummon.h
+END
+TotemSummon.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Entities/Summons/TotemSummon.h
+END

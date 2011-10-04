@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/arcemu/!svn/ver/4085/trunk/dep/include/postgre
+END
+libpq-fe.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4085/trunk/dep/include/postgre/libpq-fe.h
+END
+postgres_ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4085/trunk/dep/include/postgre/postgres_ext.h
+END

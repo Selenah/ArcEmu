@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll
+END
+krb5_32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/krb5_32.dll
+END
+libpq.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/libpq.dll
+END
+libeay32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/libeay32.dll
+END
+gssapi32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/gssapi32.dll
+END
+comerr32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/comerr32.dll
+END
+libmySQL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/libmySQL.dll
+END
+k5sprt32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/k5sprt32.dll
+END
+libintl-8.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/libintl-8.dll
+END
+msvcr71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/msvcr71.dll
+END
+libiconv-2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll/libiconv-2.dll
+END

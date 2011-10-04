@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/arcemu/!svn/ver/4081/trunk/dep/include/pcre
+END
+pcre.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4081/trunk/dep/include/pcre/pcre.h
+END
+ucptable.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4081/trunk/dep/include/pcre/ucptable.h
+END
+ucpinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4081/trunk/dep/include/pcre/ucpinternal.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4081/trunk/dep/include/pcre/config.h
+END
+pcre_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4081/trunk/dep/include/pcre/pcre_internal.h
+END
+ucp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4081/trunk/dep/include/pcre/ucp.h
+END

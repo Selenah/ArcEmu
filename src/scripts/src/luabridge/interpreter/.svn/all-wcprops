@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4590/trunk/src/scripts/src/luabridge/interpreter
+END
+class_decls.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/interpreter/class_decls.h
+END
+LUAEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/4590/trunk/src/scripts/src/luabridge/interpreter/LUAEngine.cpp
+END
+lua_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/interpreter/lua_defs.h
+END
+lua_instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/interpreter/lua_instance.h
+END
+LUAEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/interpreter/LUAEngine.h
+END

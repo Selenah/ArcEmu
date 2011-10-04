@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4509/trunk/src/scripts/src/EventScripts
+END
+Event_Halloween.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/EventScripts/Event_Halloween.cpp
+END
+Setup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/EventScripts/Setup.cpp
+END
+Setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/EventScripts/Setup.h
+END
+Event_WinterVeil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/EventScripts/Event_WinterVeil.cpp
+END

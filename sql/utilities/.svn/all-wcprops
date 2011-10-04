@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/arcemu/!svn/ver/3761/trunk/sql/utilities
+END
+use_it_if_you_applied_rev115_changeset.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/utilities/use_it_if_you_applied_rev115_changeset.sql
+END
+ban_accounts_with_space.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/utilities/ban_accounts_with_space.sql
+END
+find_same_ip_accounts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/utilities/find_same_ip_accounts.sql
+END
+exploited_items.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/utilities/exploited_items.sql
+END

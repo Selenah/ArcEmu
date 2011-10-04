@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/g3dlite
+END
+Color1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Color1.cpp
+END
+GCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GCamera.cpp
+END
+fileutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/fileutils.cpp
+END
+Color3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Color3.cpp
+END
+Color4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Color4.cpp
+END
+CoordinateFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/CoordinateFrame.cpp
+END
+Vector3int16.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Vector3int16.cpp
+END
+LineSegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/LineSegment.cpp
+END
+GImage_bayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GImage_bayer.cpp
+END
+Rect2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Rect2D.cpp
+END
+Cone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Cone.cpp
+END
+GImage_tga.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GImage_tga.cpp
+END
+System.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/System.cpp
+END
+SplineBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/SplineBase.cpp
+END
+Any.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Any.cpp
+END
+Color3uint8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Color3uint8.cpp
+END
+Vector4int8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Vector4int8.cpp
+END
+MeshAlgWeld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/MeshAlgWeld.cpp
+END
+UprightFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/UprightFrame.cpp
+END
+Image4uint8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Image4uint8.cpp
+END
+GImage_jpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GImage_jpeg.cpp
+END
+MemoryManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/MemoryManager.cpp
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Matrix.cpp
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/license.html
+END
+BinaryOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/BinaryOutput.cpp
+END
+TextOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/TextOutput.cpp
+END
+ConvexPolyhedron.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/ConvexPolyhedron.cpp
+END
+RegistryUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/RegistryUtil.cpp
+END
+BumpMapPreprocess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/BumpMapPreprocess.cpp
+END
+uint128.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/uint128.cpp
+END
+Stopwatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Stopwatch.cpp
+END
+constants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/constants.cpp
+END
+GLight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GLight.cpp
+END
+g3dfnmatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/g3dfnmatch.cpp
+END
+Random.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Random.cpp
+END
+MeshAlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/MeshAlg.cpp
+END
+Crypto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Crypto.cpp
+END
+MeshAlgAdjacency.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/MeshAlgAdjacency.cpp
+END
+license.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/license.cpp
+END
+Vector2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Vector2.cpp
+END
+Vector3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Vector3.cpp
+END
+Sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Sphere.cpp
+END
+Vector4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Vector4.cpp
+END
+CollisionDetection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/CollisionDetection.cpp
+END
+Color4uint8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Color4uint8.cpp
+END
+Ray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Ray.cpp
+END
+ImageFormat_convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/ImageFormat_convert.cpp
+END
+Image1uint8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Image1uint8.cpp
+END
+NetAddress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/NetAddress.cpp
+END
+AreaMemoryManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/AreaMemoryManager.cpp
+END
+Intersect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Intersect.cpp
+END
+WinMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/WinMain.cpp
+END
+GImage_ppm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GImage_ppm.cpp
+END
+Triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Triangle.cpp
+END
+Vector3int32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Vector3int32.cpp
+END
+ReferenceCount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/ReferenceCount.cpp
+END
+NetworkDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/NetworkDevice.cpp
+END
+Quat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Quat.cpp
+END
+Welder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Welder.cpp
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/filter.cpp
+END
+Color1uint8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Color1uint8.cpp
+END
+GImage_bmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GImage_bmp.cpp
+END
+g3dmath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/g3dmath.cpp
+END
+format.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/format.cpp
+END
+AnyVal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/AnyVal.cpp
+END
+AABox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/AABox.cpp
+END
+ImageFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/ImageFormat.cpp
+END
+BinaryFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/BinaryFormat.cpp
+END
+Plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Plane.cpp
+END
+MeshBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/MeshBuilder.cpp
+END
+Image1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Image1.cpp
+END
+BinaryInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/BinaryInput.cpp
+END
+TextInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/TextInput.cpp
+END
+Image3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Image3.cpp
+END
+Image4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Image4.cpp
+END
+Vector2int16.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Vector2int16.cpp
+END
+debugAssert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/debugAssert.cpp
+END
+Cylinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Cylinder.cpp
+END
+GThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GThread.cpp
+END
+Box2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Box2D.cpp
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Log.cpp
+END
+prompt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/prompt.cpp
+END
+ThreadSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/ThreadSet.cpp
+END
+Crypto_md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Crypto_md5.cpp
+END
+Matrix3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Matrix3.cpp
+END
+Line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Line.cpp
+END
+stringutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/stringutils.cpp
+END
+PrecomputedRandom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/PrecomputedRandom.cpp
+END
+Matrix4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Matrix4.cpp
+END
+Box.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Box.cpp
+END
+GImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GImage.cpp
+END
+GUniqueID.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GUniqueID.cpp
+END
+Capsule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Capsule.cpp
+END
+PhysicsFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/PhysicsFrame.cpp
+END
+Image3uint8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/Image3uint8.cpp
+END
+GImage_png.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4078/trunk/dep/src/g3dlite/GImage_png.cpp
+END

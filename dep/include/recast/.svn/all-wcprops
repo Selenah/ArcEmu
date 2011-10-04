@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/include/recast
+END
+RecastAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/include/recast/RecastAlloc.h
+END
+Recast.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/include/recast/Recast.h
+END
+RecastAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4302/trunk/dep/include/recast/RecastAssert.h
+END

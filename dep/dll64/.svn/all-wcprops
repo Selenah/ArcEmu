@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll64
+END
+libeay32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll64/libeay32.dll
+END
+libmysql.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4102/trunk/dep/dll64/libmysql.dll
+END

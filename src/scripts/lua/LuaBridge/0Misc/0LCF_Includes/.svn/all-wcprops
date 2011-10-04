@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes
+END
+LCF_Player.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Player.lua
+END
+LCF_Item.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Item.lua
+END
+LCF_Spell.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Spell.lua
+END
+LCF_Unit.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Unit.lua
+END
+LCF.lua
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF.lua
+END
+LCF_Gameobject.lua
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Gameobject.lua
+END
+LCF_Global.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Global.lua
+END
+LCF_Extra.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Extra.lua
+END
+LCF_MapMgr.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_MapMgr.lua
+END
+LCF_Object.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Object.lua
+END
+LCF_Taxi_Packet_etc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Taxi_Packet_etc.lua
+END
+LCF_Creature.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/0Misc/0LCF_Includes/LCF_Creature.lua
+END

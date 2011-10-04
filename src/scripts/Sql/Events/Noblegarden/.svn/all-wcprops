@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/Events/Noblegarden
+END
+Noblegarden_Spawn.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/Events/Noblegarden/Noblegarden_Spawn.sql
+END
+Noblegarden_Remove.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/Events/Noblegarden/Noblegarden_Remove.sql
+END

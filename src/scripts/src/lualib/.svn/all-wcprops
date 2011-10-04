@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib
+END
+lauxlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lauxlib.c
+END
+ldebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/ldebug.c
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lauxlib.h
+END
+ldebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/ldebug.h
+END
+ltablib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/ltablib.c
+END
+liolib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/liolib.c
+END
+lstrlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lstrlib.c
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lualib.h
+END
+ldo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/ldo.c
+END
+ldump.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/ldump.c
+END
+ldo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/ldo.h
+END
+loslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/loslib.c
+END
+lundump.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lundump.c
+END
+ldblib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/ldblib.c
+END
+lundump.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lundump.h
+END
+lmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lmem.c
+END
+lmathlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lmathlib.c
+END
+lstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lstate.c
+END
+ltm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/ltm.c
+END
+lvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lvm.c
+END
+lmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lmem.h
+END
+lstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lstate.h
+END
+ltm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/ltm.h
+END
+ltable.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/ltable.c
+END
+lvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lvm.h
+END
+llex.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/llex.c
+END
+lgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lgc.c
+END
+loadlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/loadlib.c
+END
+lfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lfunc.c
+END
+lparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lparser.c
+END
+lopcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lopcodes.c
+END
+ltable.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/ltable.h
+END
+llex.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/llex.h
+END
+lgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lgc.h
+END
+lfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lfunc.h
+END
+lopcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lopcodes.h
+END
+lbaselib.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lbaselib.c
+END
+lparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lparser.h
+END
+lzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lzio.c
+END
+linit.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/linit.c
+END
+lua.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lua.c
+END
+lobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lobject.c
+END
+llimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/llimits.h
+END
+lstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lstring.c
+END
+lzio.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lzio.h
+END
+lapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lapi.c
+END
+lcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4137/trunk/src/scripts/src/lualib/lcode.c
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lua.h
+END
+lobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lobject.h
+END
+lstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lstring.h
+END
+lapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lapi.h
+END
+lcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/lcode.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/lualib/luaconf.h
+END
+print.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4192/trunk/src/scripts/src/lualib/print.c
+END

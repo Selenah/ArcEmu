@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4526/trunk/src/scripts/src/GossipScripts
+END
+Gossip_Mulgore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Mulgore.cpp
+END
+Gossip_XpEliminator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_XpEliminator.cpp
+END
+Setup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Setup.cpp
+END
+Setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Setup.h
+END
+Gossip_DarkmoonFaire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/arcemu/!svn/ver/4461/trunk/src/scripts/src/GossipScripts/Gossip_DarkmoonFaire.cpp
+END
+Gossip_BoreanTundra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_BoreanTundra.cpp
+END
+Gossip_Theramore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Theramore.cpp
+END
+Gossip_Stormwind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Stormwind.cpp
+END
+Gossip_Tanaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Tanaris.cpp
+END
+Gossip_Shattrath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Shattrath.cpp
+END
+Gossip_Guard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Guard.cpp
+END
+Gossip_WyrmrestTemple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_WyrmrestTemple.cpp
+END
+Gossip_Innkeepers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/4526/trunk/src/scripts/src/GossipScripts/Gossip_Innkeepers.cpp
+END
+Gossip_Trainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Trainer.cpp
+END
+Gossip_Moonglade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Moonglade.cpp
+END
+Gossip_Teldrassil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/GossipScripts/Gossip_Teldrassil.cpp
+END

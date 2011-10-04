@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/Enables
+END
+gameobject_teleports.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/Enables/gameobject_teleports.sql
+END
+barnes_opera_ fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/Enables/barnes_opera_%20fix.sql
+END
+berthold_chat_ fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/Enables/berthold_chat_%20fix.sql
+END
+Trainer_gossip_fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/arcemu/!svn/ver/3718/trunk/src/scripts/Sql/Enables/Trainer_gossip_fix.sql
+END

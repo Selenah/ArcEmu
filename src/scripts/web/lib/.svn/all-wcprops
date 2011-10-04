@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/lib
+END
+StringTokenizer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/lib/StringTokenizer.inc.php
+END
+Database.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/lib/Database.inc.php
+END
+MYSQLDatabase.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/lib/MYSQLDatabase.inc.php
+END

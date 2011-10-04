@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4265/trunk/extras/Spell_to_sql/src
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/3711/trunk/extras/Spell_to_sql/src/defines.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4265/trunk/extras/Spell_to_sql/src/main.cpp
+END
+dbcfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4265/trunk/extras/Spell_to_sql/src/dbcfile.cpp
+END
+dbcfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4265/trunk/extras/Spell_to_sql/src/dbcfile.h
+END

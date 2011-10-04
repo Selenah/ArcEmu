@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/4490/trunk/src/scripts/src/luabridge/object_functions
+END
+object_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/arcemu/!svn/ver/4490/trunk/src/scripts/src/luabridge/object_functions/object_functions.cpp
+END
+GlobalFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/GlobalFunctions.h
+END
+packet_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/packet_functions.cpp
+END
+creature_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/creature_functions.cpp
+END
+lua_gameobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/lua_gameobject.h
+END
+spell_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/spell_functions.cpp
+END
+unit_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/unit_functions.cpp
+END
+register_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/register_functions.cpp
+END
+lua_creature.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/lua_creature.h
+END
+aura_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/aura_functions.cpp
+END
+player_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/player_functions.cpp
+END
+lua_hooks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/lua_hooks.cpp
+END
+item_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/item_functions.cpp
+END
+sql_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/sql_functions.cpp
+END
+global_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/global_functions.cpp
+END
+gameobject_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/gameobject_functions.cpp
+END
+quest_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/arcemu/!svn/ver/4490/trunk/src/scripts/src/luabridge/object_functions/quest_functions.cpp
+END
+instance_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/instance_functions.cpp
+END
+taxi_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/luabridge/object_functions/taxi_functions.cpp
+END

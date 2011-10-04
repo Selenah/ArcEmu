@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-logonserver
+END
+AuthStructs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/AuthStructs.h
+END
+LogonOpcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/LogonOpcodes.h
+END
+LogonConsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/LogonConsole.cpp
+END
+LogonConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/LogonConsole.h
+END
+AuthSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-logonserver/AuthSocket.cpp
+END
+AutoPatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/AutoPatcher.cpp
+END
+AuthSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/AuthSocket.h
+END
+AccountCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-logonserver/AccountCache.cpp
+END
+icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/3711/trunk/src/arcemu-logonserver/icon.ico
+END
+LogonCommServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/LogonCommServer.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/Main.cpp
+END
+AutoPatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/AutoPatcher.h
+END
+AccountCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/AccountCache.h
+END
+LogonCommServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/LogonCommServer.h
+END
+LogonStdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-logonserver/LogonStdAfx.cpp
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/Main.h
+END
+LogonOpcodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-logonserver/LogonOpcodes.cpp
+END
+PeriodicFunctionCall_Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-logonserver/PeriodicFunctionCall_Thread.h
+END
+resources.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/3711/trunk/src/arcemu-logonserver/resources.rc
+END
+LogonStdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4261/trunk/src/arcemu-logonserver/LogonStdAfx.h
+END

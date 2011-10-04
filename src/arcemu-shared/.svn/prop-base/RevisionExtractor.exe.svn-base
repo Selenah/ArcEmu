@@ -1,0 +1,57 @@
+K 2
+ff
+V 1479
+*.asax = svn:eol-style=native
+*.ascx = svn:eol-style=native
+*.aspx = svn:eol-style=native
+*.asmx = svn:eol-style=native
+*.ashx = svn:eol-style=native
+*.asp = svn:eol-style=native
+*.browser = svn:eol-style=native
+*.build = svn:eol-style=native
+*.c = svn:eol-style=native
+*.config = svn:eol-style=native
+*.cpp = svn:eol-style=native
+*.cs = svn:eol-style=native
+*.csproj = svn:eol-style=native
+*.css = svn:eol-style=native
+*.cfc = svn:eol-style=native
+*.cfm = svn:eol-style=native
+*.cst = svn:eol-style=native
+*.dll = svn:executable
+*.exe = svn:executable
+*.h = svn:eol-style=native
+*.htc = svn:eol-style=native
+*.html = svn:eol-style=native
+*.htm = svn:eol-style=native
+*.jpg = svn:mime-type=image/jpeg
+*.jpeg = svn:mime-type=image/jpeg
+*.js = svn:eol-style=native
+*.mds = svn:eol-style=native
+*.mdp = svn:eol-style=native
+*.php = svn:eol-style=native
+*.pl = svn:eol-style=native
+*.png = svn:mime-type=image/png
+*.rest = svn:eol-style=native
+*.resx = svn:eol-style=native
+*.sh = svn:eol-style=native;svn:executable
+*.skin = svn:eol-style=native
+*.sln = svn:eol-style=native
+*.sql = svn:eol-style=native
+*.svg = svn:eol-style=native
+*.txt = svn:eol-style=native
+*.theme = svn:eol-style=native
+*.vb = svn:eol-style=native
+*.xml = svn:eol-style=native
+*.xsd = svn:eol-style=native
+*.xsl = svn:eol-style=native
+Makefile = svn:eol-style=native
+README = svn:eol-style=native
+CHANGELOG = svn:eol-style=native
+LICENSE = svn:eol-style=native
+
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END

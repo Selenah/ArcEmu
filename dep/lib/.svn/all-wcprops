@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/arcemu/!svn/ver/4084/trunk/dep/lib
+END
+libeay32_win32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4084/trunk/dep/lib/libeay32_win32.lib
+END
+libmysql_release_x64.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4084/trunk/dep/lib/libmysql_release_x64.lib
+END
+libmysql_release_win32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4084/trunk/dep/lib/libmysql_release_win32.lib
+END
+libeay32_win64.lib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4084/trunk/dep/lib/libeay32_win64.lib
+END
+libmysql_debug_x64.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4084/trunk/dep/lib/libmysql_debug_x64.lib
+END
+libmysql_debug_win32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4084/trunk/dep/lib/libmysql_debug_win32.lib
+END
+libpq.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/arcemu/!svn/ver/4084/trunk/dep/lib/libpq.lib
+END

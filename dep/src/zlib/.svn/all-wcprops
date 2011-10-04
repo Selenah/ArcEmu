@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/inftrees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/trees.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/uncompr.c
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/deflate.c
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/gzio.c
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/compress.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/example.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/adler32.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/crc32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4079/trunk/dep/src/zlib/infback.c
+END

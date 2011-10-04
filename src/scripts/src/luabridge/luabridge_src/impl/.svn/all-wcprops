@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/arcemu/!svn/ver/4250/trunk/src/scripts/src/luabridge/luabridge_src/impl
+END
+shared_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/arcemu/!svn/ver/3990/trunk/src/scripts/src/luabridge/luabridge_src/impl/shared_ptr.hpp
+END
+typelist.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/arcemu/!svn/ver/4240/trunk/src/scripts/src/luabridge/luabridge_src/impl/typelist.hpp
+END
+class.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/arcemu/!svn/ver/4201/trunk/src/scripts/src/luabridge/luabridge_src/impl/class.hpp
+END
+module.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/arcemu/!svn/ver/4236/trunk/src/scripts/src/luabridge/luabridge_src/impl/module.hpp
+END
+stack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/arcemu/!svn/ver/4250/trunk/src/scripts/src/luabridge/luabridge_src/impl/stack.hpp
+END

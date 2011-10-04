@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-shared
+END
+arcemu_getopt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/arcemu_getopt.cpp
+END
+MapFileEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/MapFileEntry.cpp
+END
+SysInfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4222/trunk/src/arcemu-shared/SysInfo.hpp
+END
+LocationVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/LocationVector.h
+END
+CallBack.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4509/trunk/src/arcemu-shared/CallBack.h
+END
+printStackTrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/printStackTrace.cpp
+END
+MersenneTwister.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/MersenneTwister.h
+END
+FindFiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/FindFiles.cpp
+END
+CrashHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/CrashHandler.h
+END
+FastQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-shared/FastQueue.h
+END
+Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Singleton.h
+END
+arcemuConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-shared/arcemuConfig.h
+END
+FindFiles.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4215/trunk/src/arcemu-shared/FindFiles.hpp
+END
+Storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-shared/Storage.h
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Util.cpp
+END
+CircularQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/CircularQueue.h
+END
+Tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Tokenizer.h
+END
+StackWalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/StackWalker.h
+END
+DynLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/DynLib.cpp
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/crc32.h
+END
+MapFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/MapFile.h
+END
+RC4Engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/RC4Engine.h
+END
+StackTrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-shared/StackTrace.cpp
+END
+TextFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/TextFile.cpp
+END
+WorldPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/WorldPacket.h
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Log.h
+END
+DynLib.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4215/trunk/src/arcemu-shared/DynLib.hpp
+END
+RevisionExtractor.exe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/4062/trunk/src/arcemu-shared/RevisionExtractor.exe
+END
+WoWGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/WoWGuid.h
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Common.h
+END
+CrashHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4501/trunk/src/arcemu-shared/CrashHandler.cpp
+END
+MersenneTwister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/MersenneTwister.cpp
+END
+TLSObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/TLSObject.h
+END
+PerformanceCounter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/PerformanceCounter.cpp
+END
+ByteBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/ByteBuffer.h
+END
+CThreads.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/CThreads.h
+END
+arcemu_getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/arcemu_getopt.h
+END
+MapFileEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/MapFileEntry.h
+END
+StackBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/StackBuffer.h
+END
+PerformanceCounter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/arcemu/!svn/ver/4222/trunk/src/arcemu-shared/PerformanceCounter.hpp
+END
+printStackTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/printStackTrace.h
+END
+FindFilesResult.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4215/trunk/src/arcemu-shared/FindFilesResult.hpp
+END
+PreallocatedQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/PreallocatedQueue.h
+END
+StackWalker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-shared/StackWalker.cpp
+END
+crc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/crc32.cpp
+END
+MapFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/MapFile.cpp
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Log.cpp
+END
+Errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4501/trunk/src/arcemu-shared/Errors.h
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Util.h
+END
+Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Array.h
+END
+AuthCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/AuthCodes.h
+END
+CRefcounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/CRefcounter.h
+END
+StackTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/StackTrace.h
+END
+TextFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/TextFile.h
+END
+SysInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/SysInfo.cpp
+END
+CThreads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/CThreads.cpp
+END

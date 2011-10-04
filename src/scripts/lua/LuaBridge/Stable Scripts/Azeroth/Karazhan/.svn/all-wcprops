@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan
+END
+BOSS_Karazhan_Netherspite.lua
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Netherspite.lua
+END
+BOSS_Karazhan_Strawman.lua
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Strawman.lua
+END
+BOSS_Karazhan_Maiden.lua
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Maiden.lua
+END
+BOSS_Karazhan_Huntsman.lua
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Huntsman.lua
+END
+BOSS_Karazhan_Terestian.lua
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Terestian.lua
+END
+BOSS_Karazhan_Nightbane.lua
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Nightbane.lua
+END
+BOSS_Karazhan_Astral_Flare .lua
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Astral_Flare%20.lua
+END
+BOSS_Karazhan_Roar.lua
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Roar.lua
+END
+BOSS_Karazhan_Moroes.lua
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Moroes.lua
+END
+BOSS_Karazhan_Julianne.lua
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Julianne.lua
+END
+BOSS_Karazhan_Crone.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Crone.lua
+END
+BOSS_Karazhan_Malchezaar.lua
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Malchezaar.lua
+END
+BOSS_Karazhan_Wolf.lua
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Wolf.lua
+END
+BOSS_Karazhan_Shadikith.lua
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Shadikith.lua
+END
+BOSS_Karazhan_Dorothee.lua
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Dorothee.lua
+END
+BOSS_Karazhan_Hyakiss.lua
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Hyakiss.lua
+END
+BOSS_Karazhan_Tinhead.lua
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Tinhead.lua
+END
+BOSS_Karazhan_Romulo.lua
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Romulo.lua
+END
+BOSS_Karazhan_Curator.lua
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Curator.lua
+END
+BOSS_Karazhan_Tito.lua
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Tito.lua
+END
+BOSS_Karazhan_Kilrek.lua
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Kilrek.lua
+END
+BOSS_Karazhan_Aran.lua
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/arcemu/!svn/ver/4480/trunk/src/scripts/lua/LuaBridge/Stable%20Scripts/Azeroth/Karazhan/BOSS_Karazhan_Aran.lua
+END

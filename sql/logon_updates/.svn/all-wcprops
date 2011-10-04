@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/logon_updates
+END
+2391_accounts_banned.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/logon_updates/2391_accounts_banned.sql
+END
+switch_to_encrypted_passwords.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/logon_updates/switch_to_encrypted_passwords.sql
+END
+1842_Account_Flags.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/logon_updates/1842_Account_Flags.sql
+END
+1066_add_banreasons.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/logon_updates/1066_add_banreasons.sql
+END
+correction_to_ipbans(allrevs).sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/logon_updates/correction_to_ipbans(allrevs).sql
+END

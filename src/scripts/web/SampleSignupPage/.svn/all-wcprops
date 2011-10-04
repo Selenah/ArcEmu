@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleSignupPage
+END
+Config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleSignupPage/Config.inc.php
+END
+recaptchalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/recaptchalib.php
+END
+signup.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/signup.php
+END
+dosignup.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/arcemu/!svn/ver/4482/trunk/src/scripts/web/SampleSignupPage/dosignup.php
+END

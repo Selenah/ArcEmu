@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/arcemu/!svn/ver/4265/trunk/extras/Spell_to_sql
+END
+import_sql.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/3711/trunk/extras/Spell_to_sql/import_sql.bat
+END

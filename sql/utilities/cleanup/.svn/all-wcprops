@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/arcemu/!svn/ver/3761/trunk/sql/utilities/cleanup
+END
+creature_cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/3761/trunk/sql/utilities/cleanup/creature_cleanup.sql
+END
+go_cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/3761/trunk/sql/utilities/cleanup/go_cleanup.sql
+END

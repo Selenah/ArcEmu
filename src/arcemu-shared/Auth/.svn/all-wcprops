@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth
+END
+WowCrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth/WowCrypt.cpp
+END
+BigNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth/BigNumber.h
+END
+Sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth/Sha1.h
+END
+WowCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth/WowCrypt.h
+END
+MD5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth/MD5.cpp
+END
+BigNumber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth/BigNumber.cpp
+END
+MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth/MD5.h
+END
+Sha1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-shared/Auth/Sha1.cpp
+END

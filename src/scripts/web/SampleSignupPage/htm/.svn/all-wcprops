@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/htm
+END
+err_nodata.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/htm/err_nodata.html
+END
+cantconnect.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/htm/cantconnect.html
+END
+err_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/htm/err_email.html
+END
+failed.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/htm/failed.html
+END
+err_unknown.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/htm/err_unknown.html
+END
+success.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/htm/success.html
+END
+err_captcha.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/3764/trunk/src/scripts/web/SampleSignupPage/htm/err_captcha.html
+END

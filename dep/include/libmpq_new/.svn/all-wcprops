@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new
+END
+winvs_stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/winvs_stdint.h
+END
+winvs_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/winvs_config.h
+END
+mpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/mpq.h
+END
+crypt_buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/crypt_buf.h
+END
+explode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/explode.h
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/wave.h
+END
+pack_end.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/pack_end.h
+END
+mpq_libmpq04.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/mpq_libmpq04.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/config.h
+END
+mpq-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/mpq-internal.h
+END
+extract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/extract.h
+END
+winvs_dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/winvs_dirent.h
+END
+pack_begin.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/pack_begin.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/platform.h
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/huffman.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4456/trunk/dep/include/libmpq_new/common.h
+END

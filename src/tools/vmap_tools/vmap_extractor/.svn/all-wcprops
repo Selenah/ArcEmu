@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/4466/trunk/src/tools/vmap_tools/vmap_extractor
+END
+wdtfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/wdtfile.cpp
+END
+model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/model.cpp
+END
+modelheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/modelheaders.h
+END
+wmo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/arcemu/!svn/ver/4466/trunk/src/tools/vmap_tools/vmap_extractor/wmo.cpp
+END
+wdtfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/wdtfile.h
+END
+vmapexport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/arcemu/!svn/ver/4465/trunk/src/tools/vmap_tools/vmap_extractor/vmapexport.cpp
+END
+model.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/model.h
+END
+wmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/wmo.h
+END
+adtfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/adtfile.cpp
+END
+vec3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/vec3d.h
+END
+vmapexport.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/vmapexport.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/README
+END
+adtfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/adtfile.h
+END
+dbcfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/dbcfile.cpp
+END
+dbcfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/arcemu/!svn/ver/4456/trunk/src/tools/vmap_tools/vmap_extractor/dbcfile.h
+END
