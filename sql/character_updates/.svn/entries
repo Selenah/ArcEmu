@@ -1,7 +1,7 @@
 10
 
 dir
-4620
+4621
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/sql/character_updates
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
@@ -536,40 +536,6 @@ has-props
 
 63
 
-2971_dualspecs.sql
-file
-
-
-
-
-2011-10-04T13:53:54.745333Z
-c7ba1706c1bec7430e29826dbf978da1
-2010-04-03T03:40:17.145200Z
-3251
-eggy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-600
-
 2084_character_achievement_progress.sql
 file
 
@@ -603,6 +569,40 @@ has-props
 
 
 8939
+
+2971_dualspecs.sql
+file
+
+
+
+
+2011-10-04T13:53:54.745333Z
+c7ba1706c1bec7430e29826dbf978da1
+2010-04-03T03:40:17.145200Z
+3251
+eggy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+600
 
 1564_character_achievements.sql
 file
@@ -876,40 +876,6 @@ has-props
 
 525
 
-1033_playersummons.sql
-file
-
-
-
-
-2011-10-04T13:53:54.765334Z
-b06aa710672fda9c1eb2fd084fd9a2f4
-2009-02-16T23:36:09.734439Z
-2213
-Hasbro
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-196
-
 912_pvp_titles.sql
 file
 
@@ -943,6 +909,40 @@ has-props
 
 
 162
+
+1033_playersummons.sql
+file
+
+
+
+
+2011-10-04T13:53:54.765334Z
+b06aa710672fda9c1eb2fd084fd9a2f4
+2009-02-16T23:36:09.734439Z
+2213
+Hasbro
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+196
 
 3402_equipmentmgr.sql
 file
@@ -1012,40 +1012,6 @@ dfighter1985
 
 2536
 
-1653_achievements.sql
-file
-
-
-
-
-2011-10-04T13:53:54.771335Z
-4285a1d32a27d1d1225b8deb88da21e6
-2010-04-03T03:40:17.145200Z
-3251
-eggy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-518
-
 566_gm_tickets.sql
 file
 
@@ -1079,6 +1045,40 @@ has-props
 
 
 105
+
+1653_achievements.sql
+file
+
+
+
+
+2011-10-04T13:53:54.771335Z
+4285a1d32a27d1d1225b8deb88da21e6
+2010-04-03T03:40:17.145200Z
+3251
+eggy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+518
 
 2310_guilds.sql
 file

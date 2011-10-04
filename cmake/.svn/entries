@@ -1,7 +1,7 @@
 10
 
 dir
-4620
+4621
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/cmake
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
@@ -29,10 +29,10 @@ dfighter1985
 recast
 dir
 
-world
+scripts
 dir
 
-scripts
+world
 dir
 
 pcre
@@ -41,10 +41,13 @@ dir
 vmaplib
 dir
 
+collision
+dir
+
 g3dlite
 dir
 
-collision
+crashreport
 dir
 
 cmake.kdev4
@@ -81,16 +84,13 @@ pharoxysm
 
 62
 
-crashreport
-dir
-
-zlib
+spellhandlers
 dir
 
 tools
 dir
 
-spellhandlers
+zlib
 dir
 
 detour

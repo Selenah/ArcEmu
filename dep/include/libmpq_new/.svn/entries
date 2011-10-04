@@ -1,7 +1,7 @@
 10
 
 dir
-4620
+4621
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/dep/include/libmpq_new
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
@@ -25,40 +25,6 @@ has-props
 
 
 990fb233-584f-0410-a668-b69381bdf79e
-
-winvs_stdint.h
-file
-
-
-
-
-2011-10-04T13:54:08.985148Z
-a3b6cc714d44b0e13b67ad832c30f941
-2011-08-12T10:05:27.409700Z
-4456
-dfighter1985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7975
 
 winvs_config.h
 file
@@ -94,14 +60,14 @@ dfighter1985
 
 2433
 
-mpq.h
+winvs_stdint.h
 file
 
 
 
 
-2011-10-04T13:54:08.993148Z
-8bf25ee7468a89dd47d9655754d857a1
+2011-10-04T13:54:08.985148Z
+a3b6cc714d44b0e13b67ad832c30f941
 2011-08-12T10:05:27.409700Z
 4456
 dfighter1985
@@ -126,7 +92,7 @@ dfighter1985
 
 
 
-5222
+7975
 
 crypt_buf.h
 file
@@ -161,6 +127,40 @@ dfighter1985
 
 
 15904
+
+mpq.h
+file
+
+
+
+
+2011-10-04T13:54:08.993148Z
+8bf25ee7468a89dd47d9655754d857a1
+2011-08-12T10:05:27.409700Z
+4456
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5222
 
 explode.h
 file
@@ -264,40 +264,6 @@ dfighter1985
 
 1060
 
-mpq_libmpq04.h
-file
-
-
-
-
-2011-10-04T13:54:08.997148Z
-7870c5f505bd2193aa14e194c684e9c8
-2011-08-12T10:05:27.409700Z
-4456
-dfighter1985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2086
-
 config.h
 file
 
@@ -331,6 +297,40 @@ dfighter1985
 
 
 25
+
+mpq_libmpq04.h
+file
+
+
+
+
+2011-10-04T13:54:08.997148Z
+7870c5f505bd2193aa14e194c684e9c8
+2011-08-12T10:05:27.409700Z
+4456
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2086
 
 mpq-internal.h
 file
@@ -468,40 +468,6 @@ dfighter1985
 
 1143
 
-platform.h
-file
-
-
-
-
-2011-10-04T13:54:09.004149Z
-1dea63322e1657973721ddb5c2f2b2a4
-2011-08-12T10:05:27.409700Z
-4456
-dfighter1985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1002
-
 huffman.h
 file
 
@@ -535,6 +501,40 @@ dfighter1985
 
 
 5578
+
+platform.h
+file
+
+
+
+
+2011-10-04T13:54:09.004149Z
+1dea63322e1657973721ddb5c2f2b2a4
+2011-08-12T10:05:27.409700Z
+4456
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1002
 
 common.h
 file

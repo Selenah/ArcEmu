@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/svnroot/arcemu/!svn/ver/4616/trunk/src/arcemu-world
+/svnroot/arcemu/!svn/ver/4621/trunk/src/arcemu-world
 END
 EquipmentSetMgr.h
 K 25
@@ -213,17 +213,17 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/DayWatcherThread.cpp
 END
-Vehicle.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/Vehicle.h
-END
 Spell_Warrior.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-world/Spell_Warrior.cpp
+END
+Vehicle.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/Vehicle.h
 END
 MapMgr.h
 K 25
@@ -279,17 +279,17 @@ svn:wc:ra_dav:version-url
 V 63
 /svnroot/arcemu/!svn/ver/4472/trunk/src/arcemu-world/QuestMgr.h
 END
-Paladin.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Paladin.h
-END
 Channel.h
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svnroot/arcemu/!svn/ver/4459/trunk/src/arcemu-world/Channel.h
+END
+Paladin.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Paladin.h
 END
 LfgMgr.cpp
 K 25
@@ -313,7 +313,7 @@ MapMgr.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/MapMgr.cpp
+/svnroot/arcemu/!svn/ver/4621/trunk/src/arcemu-world/MapMgr.cpp
 END
 Unit.h
 K 25
@@ -339,29 +339,23 @@ svn:wc:ra_dav:version-url
 V 70
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/ConsoleCommands.h
 END
-Warrior.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Warrior.h
-END
 GroupHandler.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/GroupHandler.cpp
 END
-CommonScheduleThread.cpp
+Warrior.h
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/CommonScheduleThread.cpp
+V 62
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Warrior.h
 END
-ArenaTeam.cpp
+WorldState.h
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/ArenaTeam.cpp
+V 65
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/WorldState.h
 END
 LogonCommHandler.h
 K 25
@@ -369,11 +363,17 @@ svn:wc:ra_dav:version-url
 V 71
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/LogonCommHandler.h
 END
-WorldState.h
+ArenaTeam.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/WorldState.h
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/ArenaTeam.cpp
+END
+CommonScheduleThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/CommonScheduleThread.cpp
 END
 LogonCommClient.h
 K 25
@@ -771,17 +771,17 @@ svn:wc:ra_dav:version-url
 V 68
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Spell_Rogue.cpp
 END
-SpellProc_Druid.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-world/SpellProc_Druid.cpp
-END
 ArathiBasin.h
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/ArathiBasin.h
+END
+SpellProc_Druid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-world/SpellProc_Druid.cpp
 END
 SpellProc_Paladin.cpp
 K 25
@@ -849,17 +849,17 @@ svn:wc:ra_dav:version-url
 V 78
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/SpellProc_DeathKnight.cpp
 END
-ScriptMgr.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svnroot/arcemu/!svn/ver/4601/trunk/src/arcemu-world/ScriptMgr.h
-END
 Creature.h
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/Creature.h
+END
+ScriptMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4601/trunk/src/arcemu-world/ScriptMgr.h
 END
 SummonHandler.h
 K 25
@@ -891,11 +891,11 @@ svn:wc:ra_dav:version-url
 V 67
 /svnroot/arcemu/!svn/ver/4477/trunk/src/arcemu-world/MailSystem.cpp
 END
-MovementHandler.cpp
+Level1.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/MovementHandler.cpp
+V 63
+/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/Level1.cpp
 END
 HonorHandler.h
 K 25
@@ -903,23 +903,23 @@ svn:wc:ra_dav:version-url
 V 67
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/HonorHandler.h
 END
-Level1.cpp
+MovementHandler.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/Level1.cpp
-END
-StdAfx.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-world/StdAfx.cpp
+V 72
+/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/MovementHandler.cpp
 END
 Spell_DeathKnight.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Spell_DeathKnight.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/arcemu/!svn/ver/4151/trunk/src/arcemu-world/StdAfx.cpp
 END
 ItemHandler.cpp
 K 25
@@ -933,17 +933,17 @@ svn:wc:ra_dav:version-url
 V 61
 /svnroot/arcemu/!svn/ver/4606/trunk/src/arcemu-world/Master.h
 END
-WarsongGulch.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/WarsongGulch.cpp
-END
 VoiceChatHandler.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/arcemu/!svn/ver/3711/trunk/src/arcemu-world/VoiceChatHandler.cpp
+END
+WarsongGulch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/WarsongGulch.cpp
 END
 CConsole.cpp
 K 25
@@ -1041,17 +1041,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Definitions.h
 END
-StrandOfTheAncient.h
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/StrandOfTheAncient.h
-END
 MapScriptInterface.h
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/arcemu/!svn/ver/4517/trunk/src/arcemu-world/MapScriptInterface.h
+END
+StrandOfTheAncient.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/StrandOfTheAncient.h
 END
 SpellMgr.h
 K 25
@@ -1059,17 +1059,17 @@ svn:wc:ra_dav:version-url
 V 63
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/SpellMgr.h
 END
-AreaTrigger.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/AreaTrigger.cpp
-END
 resources.rc
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /svnroot/arcemu/!svn/ver/3711/trunk/src/arcemu-world/resources.rc
+END
+AreaTrigger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/AreaTrigger.cpp
 END
 TradeHandler.cpp
 K 25
@@ -1101,29 +1101,29 @@ svn:wc:ra_dav:version-url
 V 63
 /svnroot/arcemu/!svn/ver/4160/trunk/src/arcemu-world/Priest.cpp
 END
-Warlock.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Warlock.h
-END
 Shaman.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svnroot/arcemu/!svn/ver/4160/trunk/src/arcemu-world/Shaman.cpp
 END
-SummonHandler.cpp
+Warlock.h
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/SummonHandler.cpp
+V 62
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Warlock.h
 END
 Druid.h
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Druid.h
+END
+SummonHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/SummonHandler.cpp
 END
 Vehicle.cpp
 K 25
@@ -1143,11 +1143,11 @@ svn:wc:ra_dav:version-url
 V 62
 /svnroot/arcemu/!svn/ver/4160/trunk/src/arcemu-world/Rogue.cpp
 END
-StrandOfTheAncient.cpp
+MapScriptInterface.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/arcemu/!svn/ver/4609/trunk/src/arcemu-world/StrandOfTheAncient.cpp
+/svnroot/arcemu/!svn/ver/4545/trunk/src/arcemu-world/MapScriptInterface.cpp
 END
 Skill.h
 K 25
@@ -1155,11 +1155,11 @@ svn:wc:ra_dav:version-url
 V 60
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Skill.h
 END
-MapScriptInterface.cpp
+StrandOfTheAncient.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/arcemu/!svn/ver/4545/trunk/src/arcemu-world/MapScriptInterface.cpp
+/svnroot/arcemu/!svn/ver/4609/trunk/src/arcemu-world/StrandOfTheAncient.cpp
 END
 MiscHandler.cpp
 K 25
@@ -1179,17 +1179,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/debugcmds.cpp
 END
-StdAfx.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/StdAfx.h
-END
 Item.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /svnroot/arcemu/!svn/ver/4459/trunk/src/arcemu-world/Item.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/StdAfx.h
 END
 GameObject.cpp
 K 25
@@ -1227,17 +1227,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svnroot/arcemu/!svn/ver/4479/trunk/src/arcemu-world/QuestMgr.cpp
 END
-Spell_Mage.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svnroot/arcemu/!svn/ver/4411/trunk/src/arcemu-world/Spell_Mage.cpp
-END
 SpellProc.h
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/SpellProc.h
+END
+Spell_Mage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/arcemu/!svn/ver/4411/trunk/src/arcemu-world/Spell_Mage.cpp
 END
 RaidHandler.cpp
 K 25
@@ -1263,17 +1263,17 @@ svn:wc:ra_dav:version-url
 V 64
 /svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/ObjectMgr.h
 END
-QuestCommands.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svnroot/arcemu/!svn/ver/4479/trunk/src/arcemu-world/QuestCommands.cpp
-END
 LfgMgr.h
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/LfgMgr.h
+END
+QuestCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/arcemu/!svn/ver/4479/trunk/src/arcemu-world/QuestCommands.cpp
 END
 ArathiBasin.cpp
 K 25
@@ -1287,11 +1287,11 @@ svn:wc:ra_dav:version-url
 V 62
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/LootMgr.h
 END
-EquipmentSetMgr.cpp
+Level2.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/EquipmentSetMgr.cpp
+V 63
+/svnroot/arcemu/!svn/ver/4601/trunk/src/arcemu-world/Level2.cpp
 END
 ItemPrototype.h
 K 25
@@ -1299,11 +1299,11 @@ svn:wc:ra_dav:version-url
 V 68
 /svnroot/arcemu/!svn/ver/4515/trunk/src/arcemu-world/ItemPrototype.h
 END
-Level2.cpp
+EquipmentSetMgr.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svnroot/arcemu/!svn/ver/4601/trunk/src/arcemu-world/Level2.cpp
+V 72
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/EquipmentSetMgr.cpp
 END
 Player.cpp
 K 25
@@ -1323,17 +1323,17 @@ svn:wc:ra_dav:version-url
 V 63
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/AddonMgr.h
 END
-SpellProc.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/SpellProc.cpp
-END
 DatabaseCleaner.h
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/DatabaseCleaner.h
+END
+SpellProc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/SpellProc.cpp
 END
 BattlegroundMgr.h
 K 25
@@ -1359,17 +1359,17 @@ svn:wc:ra_dav:version-url
 V 67
 /svnroot/arcemu/!svn/ver/4524/trunk/src/arcemu-world/NPCHandler.cpp
 END
-Spell.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/Spell.cpp
-END
 ItemInterface.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svnroot/arcemu/!svn/ver/4473/trunk/src/arcemu-world/ItemInterface.cpp
+END
+Spell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/arcemu/!svn/ver/4590/trunk/src/arcemu-world/Spell.cpp
 END
 Container.cpp
 K 25
@@ -1389,17 +1389,17 @@ svn:wc:ra_dav:version-url
 V 61
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Main.cpp
 END
-SpellTarget.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svnroot/arcemu/!svn/ver/4601/trunk/src/arcemu-world/SpellTarget.cpp
-END
 InstanceCommands.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/InstanceCommands.cpp
+END
+SpellTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/4601/trunk/src/arcemu-world/SpellTarget.cpp
 END
 Pet.cpp
 K 25
@@ -1431,17 +1431,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/GMTicket.cpp
 END
-Paladin.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svnroot/arcemu/!svn/ver/4160/trunk/src/arcemu-world/Paladin.cpp
-END
 Channel.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Channel.cpp
+END
+Paladin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/arcemu/!svn/ver/4160/trunk/src/arcemu-world/Paladin.cpp
 END
 AIInterface.h
 K 25
@@ -1467,17 +1467,17 @@ svn:wc:ra_dav:version-url
 V 64
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/Container.h
 END
-LogonCommHandler.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/LogonCommHandler.cpp
-END
 WorldState.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/WorldState.cpp
+END
+LogonCommHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/LogonCommHandler.cpp
 END
 CollideInterface.cpp
 K 25
@@ -1497,11 +1497,11 @@ svn:wc:ra_dav:version-url
 V 66
 /svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/MiscHandler.h
 END
-CommonScheduleThread.h
+GuildHandler.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/CommonScheduleThread.h
+V 69
+/svnroot/arcemu/!svn/ver/4459/trunk/src/arcemu-world/GuildHandler.cpp
 END
 ArenaTeam.h
 K 25
@@ -1509,11 +1509,11 @@ svn:wc:ra_dav:version-url
 V 64
 /svnroot/arcemu/!svn/ver/4459/trunk/src/arcemu-world/ArenaTeam.h
 END
-GuildHandler.cpp
+CommonScheduleThread.h
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svnroot/arcemu/!svn/ver/4459/trunk/src/arcemu-world/GuildHandler.cpp
+V 75
+/svnroot/arcemu/!svn/ver/4442/trunk/src/arcemu-world/CommonScheduleThread.h
 END
 Stats.h
 K 25

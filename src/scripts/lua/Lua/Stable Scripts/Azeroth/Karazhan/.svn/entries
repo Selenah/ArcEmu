@@ -1,7 +1,7 @@
 10
 
 dir
-4620
+4621
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/src/scripts/lua/Lua/Stable%20Scripts/Azeroth/Karazhan
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
@@ -94,40 +94,6 @@ has-props
 
 672
 
-BOSS_Karazhan_Maiden.lua
-file
-
-
-
-
-2011-10-04T13:53:33.825137Z
-efab8a3d6755d73670249c59c664fa60
-2010-10-14T17:46:03.865281Z
-3718
-dfighter1985
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1131
-
 BOSS_Karazhan_Huntsman.lua
 file
 
@@ -161,6 +127,40 @@ has-props
 
 
 1189
+
+BOSS_Karazhan_Maiden.lua
+file
+
+
+
+
+2011-10-04T13:53:33.825137Z
+efab8a3d6755d73670249c59c664fa60
+2010-10-14T17:46:03.865281Z
+3718
+dfighter1985
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1131
 
 BOSS_Karazhan_Terestian.lua
 file
@@ -196,40 +196,6 @@ has-props
 
 1200
 
-BOSS_Karazhan_Nightbane.lua
-file
-
-
-
-
-2011-10-04T13:53:33.857138Z
-78c0f748b2aa472f5bf142bd10aa1a45
-2010-10-14T17:46:03.865281Z
-3718
-dfighter1985
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1959
-
 BOSS_Karazhan_Astral_Flare .lua
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 391
+
+BOSS_Karazhan_Nightbane.lua
+file
+
+
+
+
+2011-10-04T13:53:33.857138Z
+78c0f748b2aa472f5bf142bd10aa1a45
+2010-10-14T17:46:03.865281Z
+3718
+dfighter1985
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1959
 
 BOSS_Karazhan_Roar.lua
 file
@@ -400,40 +400,6 @@ has-props
 
 632
 
-BOSS_Karazhan_Malchezaar.lua
-file
-
-
-
-
-2011-10-04T13:53:33.889140Z
-cf5a2fdbb782605b7ec49b56a1d5214f
-2010-10-14T17:46:03.865281Z
-3718
-dfighter1985
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4332
-
 BOSS_Karazhan_Wolf.lua
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 923
+
+BOSS_Karazhan_Malchezaar.lua
+file
+
+
+
+
+2011-10-04T13:53:33.889140Z
+cf5a2fdbb782605b7ec49b56a1d5214f
+2010-10-14T17:46:03.865281Z
+3718
+dfighter1985
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4332
 
 BOSS_Karazhan_Shadikith.lua
 file
