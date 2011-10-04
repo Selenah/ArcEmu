@@ -1,19 +1,19 @@
 /*
-* arcemu MMORPG Server
+* Servidor ArcEmu MMORPG
 * Copyright (C) 2005-2007 arcemu Team <http://www.arcemuemu.com/>
 *
-* This program is free software: you can redistribute it and/or modify
+* Este programa es software libre: usted puede redistribuirlo y modificarlo
 * it under the terms of the GNU General Public License as published by
-* the Free Software Foundation, either version 3 of the License, or
-* any later version.
+* La Fundacion del Software gratuito, ya sea la versión 3 de la Licencia, o
+* Cualquier versión posterior.
 *
-* This program is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* Este programa se distribuye con la esperanza de que sea útil, 
+* Pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de
+* O IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Ver el 
 * GNU General Public License for more details.
 *
 * You should have received a copy of the GNU General Public License
-* along with this program.  If not, see <http://www.gnu.org/licenses/>.
+* Junto con este programa. Si no es así, consulte <http://www.gnu.org/licenses/>. 
 *
 */
 

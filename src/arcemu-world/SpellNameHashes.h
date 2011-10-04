@@ -1,19 +1,19 @@
 /*
- * ArcEMU MMORPG Server
- * Copyright (C) 2008-2011 <http://www.ArcEmu.org/>
+ * Servidor ArcEmu MMORPG
+ * Copyright (C) 2011 <http://www.ArcEmu.es/> 
  *
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU Affero General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * any later version.
+ * Este programa es software libre: usted puede redistribuirlo y modificarlo
+ * Bajo los términos de la licencia GNU Affero General Public License publicada por
+ * La Fundacion del Software gratuito, ya sea la versión 3 de la Licencia, o
+ * Cualquier versión posterior.
  *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU Affero General Public License for more details.
+ * Este programa se distribuye con la esperanza de que sea útil, 
+ * Pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de
+ * O IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Ver el 
+ * GNU Affero General Public License para más detalles.
  *
- * You should have received a copy of the GNU Affero General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * Usted debe haber recibido una copia de la licencia GNU Affero General licencia publica
+ * Junto con este programa. Si no es así, consulte <http://www.gnu.org/licenses/>. 
  *
  */
 
