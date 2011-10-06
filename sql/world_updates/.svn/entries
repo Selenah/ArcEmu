@@ -1,14 +1,14 @@
 10
 
 dir
-4621
+4626
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/sql/world_updates
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
 
 
-2011-09-29T15:41:00.016718Z
-4606
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
 
@@ -25,40 +25,6 @@ has-props
 
 
 990fb233-584f-0410-a668-b69381bdf79e
-
-4590_vehicles.sql
-file
-
-
-
-
-2011-10-04T13:53:59.625612Z
-6155d0589f071e5e010bfaa10a61b54b
-2011-09-25T00:24:08.783747Z
-4590
-dfighter1985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1125
 
 3861_go_loot.sql
 file
@@ -94,18 +60,17 @@ dfighter1985
 
 1662
 
-672_instance-system.sql
+4590_vehicles.sql
 file
 
 
 
 
-2011-10-04T13:53:59.628613Z
-fb1c8c07dc9c6951bf506bd7d334d3ba
-2009-02-16T23:36:09.734439Z
-2213
-Hasbro
-has-props
+2011-10-04T13:53:59.625612Z
+6155d0589f071e5e010bfaa10a61b54b
+2011-09-25T00:24:08.783747Z
+4590
+dfighter1985
 
 
 
@@ -126,7 +91,8 @@ has-props
 
 
 
-638
+
+1125
 
 1174_worldstring_tables.sql
 file
@@ -161,6 +127,40 @@ has-props
 
 
 4049
+
+672_instance-system.sql
+file
+
+
+
+
+2011-10-04T13:53:59.628613Z
+fb1c8c07dc9c6951bf506bd7d334d3ba
+2009-02-16T23:36:09.734439Z
+2213
+Hasbro
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+638
 
 581_items_extendedcost.sql
 file
@@ -298,40 +298,6 @@ has-props
 
 77
 
-4378_totemspells.sql
-file
-
-
-
-
-2011-10-04T13:53:59.636613Z
-e6499e1542d775950034bee8a2df32f4
-2011-07-30T10:06:10.549132Z
-4411
-dfighter1985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-82
-
 1564_items.sql
 file
 
@@ -365,6 +331,40 @@ has-props
 
 
 360
+
+4378_totemspells.sql
+file
+
+
+
+
+2011-10-04T13:53:59.636613Z
+e6499e1542d775950034bee8a2df32f4
+2011-07-30T10:06:10.549132Z
+4411
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+82
 
 3055_ah.sql
 file
@@ -400,40 +400,6 @@ has-props
 
 85
 
-3825_rockbiter.sql
-file
-
-
-
-
-2011-10-04T13:53:59.639613Z
-c0fbd8925c2823d73b7f1c08352681b9
-2010-11-16T23:27:11.913793Z
-3825
-dfighter1985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1161
-
 3464_death_state.sql
 file
 
@@ -467,6 +433,40 @@ Paroxysm
 
 
 446
+
+3825_rockbiter.sql
+file
+
+
+
+
+2011-10-04T13:53:59.639613Z
+c0fbd8925c2823d73b7f1c08352681b9
+2010-11-16T23:27:11.913793Z
+3825
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1161
 
 678_ai_threattospell.sql
 file
@@ -1114,40 +1114,6 @@ has-props
 
 18553
 
-1497_bugfixes.sql
-file
-
-
-
-
-2011-10-04T13:53:59.676615Z
-1d8d75442617210b244c5a786ffb4938
-2009-02-16T23:36:09.734439Z
-2213
-Hasbro
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7083
-
 2860_items.sql
 file
 
@@ -1181,6 +1147,40 @@ has-props
 
 
 842
+
+1497_bugfixes.sql
+file
+
+
+
+
+2011-10-04T13:53:59.676615Z
+1d8d75442617210b244c5a786ffb4938
+2009-02-16T23:36:09.734439Z
+2213
+Hasbro
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7083
 
 2860_gameobject_overrides.sql
 file
@@ -1216,40 +1216,6 @@ has-props
 
 2158
 
-4296_totemdisplayids.sql
-file
-
-
-
-
-2011-10-04T13:53:59.680615Z
-c56bc511643d8de3f69bab849d3765d2
-2011-07-30T10:06:10.549132Z
-4411
-dfighter1985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-623
-
 1902_trainers.sql
 file
 
@@ -1283,6 +1249,40 @@ has-props
 
 
 321
+
+4296_totemdisplayids.sql
+file
+
+
+
+
+2011-10-04T13:53:59.680615Z
+c56bc511643d8de3f69bab849d3765d2
+2011-07-30T10:06:10.549132Z
+4411
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+623
 
 3006_flagsextra.sql
 file
@@ -1352,6 +1352,40 @@ jackpoz
 
 4447
 
+4626_worldstate.sql
+file
+
+
+
+
+2011-10-06T20:34:59.846688Z
+13d381a0f9438c07a9b59d40734b51c4
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+417
+
 1174_worldstring_tables_localized.sql
 file
 
@@ -1385,40 +1419,6 @@ has-props
 
 
 472
-
-744_spellfixes.sql
-file
-
-
-
-
-2011-10-04T13:53:59.695616Z
-7df664b1d375735f994ef87dc8d346ec
-2009-02-16T23:36:09.734439Z
-2213
-Hasbro
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-235
 
 3021_revert.sql
 file
@@ -1454,6 +1454,40 @@ has-props
 
 192
 
+744_spellfixes.sql
+file
+
+
+
+
+2011-10-04T13:53:59.695616Z
+7df664b1d375735f994ef87dc8d346ec
+2009-02-16T23:36:09.734439Z
+2213
+Hasbro
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+235
+
 3998_teleportspells.sql
 file
 
@@ -1488,18 +1522,17 @@ dfighter1985
 
 489
 
-2387_LightWell.sql
+3567_display_bounding_boxes.sql
 file
 
 
 
 
-2011-10-04T13:53:59.699617Z
-460ac7311e87e4843c80b2aab1cdd7e6
-2010-04-03T03:40:17.145200Z
-3251
-eggy
-has-props
+2011-10-04T13:53:59.702617Z
+22b0fd254d702161f8af3260fde3d85a
+2010-08-02T21:29:42.193087Z
+3595
+Paroxysm
 
 
 
@@ -1520,7 +1553,8 @@ has-props
 
 
 
-1650
+
+91
 
 2806_trainingdummies.sql
 file
@@ -1556,17 +1590,18 @@ has-props
 
 275
 
-3567_display_bounding_boxes.sql
+2387_LightWell.sql
 file
 
 
 
 
-2011-10-04T13:53:59.702617Z
-22b0fd254d702161f8af3260fde3d85a
-2010-08-02T21:29:42.193087Z
-3595
-Paroxysm
+2011-10-04T13:53:59.699617Z
+460ac7311e87e4843c80b2aab1cdd7e6
+2010-04-03T03:40:17.145200Z
+3251
+eggy
+has-props
 
 
 
@@ -1587,8 +1622,7 @@ Paroxysm
 
 
 
-
-91
+1650
 
 104_rituals_objects.sql
 file
@@ -1658,40 +1692,6 @@ has-props
 
 2966
 
-3812_quest_poi.sql
-file
-
-
-
-
-2011-10-04T13:53:59.706617Z
-f5a44a3176e6f36d4d4e5b25915e49bb
-2010-11-12T20:19:39.418593Z
-3812
-dfighter1985
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1030
-
 2177_sota_battlemaster_gossip_text.sql
 file
 
@@ -1725,6 +1725,40 @@ has-props
 
 
 2275
+
+3812_quest_poi.sql
+file
+
+
+
+
+2011-10-04T13:53:59.706617Z
+f5a44a3176e6f36d4d4e5b25915e49bb
+2010-11-12T20:19:39.418593Z
+3812
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1030
 
 1174_worldbroadcast.sql
 file
@@ -1760,40 +1794,6 @@ has-props
 
 656
 
-2118_items.sql
-file
-
-
-
-
-2011-10-04T13:53:59.712617Z
-49a28494796deab1823a8c48cb9be95f
-2010-04-03T03:40:17.145200Z
-3251
-eggy
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-257
-
 1746_spawns.sql
 file
 
@@ -1827,6 +1827,40 @@ has-props
 
 
 1074
+
+2118_items.sql
+file
+
+
+
+
+2011-10-04T13:53:59.712617Z
+49a28494796deab1823a8c48cb9be95f
+2010-04-03T03:40:17.145200Z
+3251
+eggy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+257
 
 2750_gameobject_names.sql
 file
@@ -1862,40 +1896,6 @@ has-props
 
 430
 
-616_quests_rewrep.sql
-file
-
-
-
-
-2011-10-04T13:53:59.717618Z
-901a6b3ccc385616a7ed0362a9367efe
-2009-02-16T23:36:09.734439Z
-2213
-Hasbro
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-676
-
 2582_quests.sql
 file
 
@@ -1929,6 +1929,40 @@ has-props
 
 
 3885
+
+616_quests_rewrep.sql
+file
+
+
+
+
+2011-10-04T13:53:59.717618Z
+901a6b3ccc385616a7ed0362a9367efe
+2009-02-16T23:36:09.734439Z
+2213
+Hasbro
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+676
 
 3807_quests.sql
 file
@@ -1998,40 +2032,6 @@ dfighter1985
 
 374
 
-3955_trainer_spells.sql
-file
-
-
-
-
-2011-10-04T13:53:59.723618Z
-9813386b1e73c1bcba0e8dd226995239
-2010-12-12T18:29:44.273304Z
-3955
-jackpoz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-108
-
 3933_tmpenchantdurations.sql
 file
 
@@ -2066,18 +2066,17 @@ dfighter1985
 
 15855
 
-1797_transport_data.sql
+3955_trainer_spells.sql
 file
 
 
 
 
-2011-10-04T13:53:59.726618Z
-854753cb060a3ea1fb4a1f1b5a3ea9fc
-2010-04-03T03:40:17.145200Z
-3251
-eggy
-has-props
+2011-10-04T13:53:59.723618Z
+9813386b1e73c1bcba0e8dd226995239
+2010-12-12T18:29:44.273304Z
+3955
+jackpoz
 
 
 
@@ -2098,7 +2097,8 @@ has-props
 
 
 
-2345
+
+108
 
 2986_quests.sql
 file
@@ -2133,6 +2133,40 @@ has-props
 
 
 119
+
+1797_transport_data.sql
+file
+
+
+
+
+2011-10-04T13:53:59.726618Z
+854753cb060a3ea1fb4a1f1b5a3ea9fc
+2010-04-03T03:40:17.145200Z
+3251
+eggy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2345
 
 1658_playercreateinfo_intros.sql
 file

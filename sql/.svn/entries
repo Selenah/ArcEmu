@@ -1,14 +1,14 @@
 10
 
 dir
-4621
+4626
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/sql
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
 
 
-2011-09-29T15:41:00.016718Z
-4606
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
 
@@ -66,16 +66,16 @@ dfighter1985
 logon_updates
 dir
 
-4606_world_structure.sql
+4626_world_structure.sql
 file
 
 
 
 
-2011-10-04T13:54:00.026635Z
-aae7663724949ab13a7a89e0d29dc86e
-2011-09-29T15:41:00.016718Z
-4606
+2011-10-06T20:34:59.878690Z
+453fec0cfd80f9345c5764486c4dfb45
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 
 
@@ -98,7 +98,7 @@ dfighter1985
 
 
 
-421594
+422068
 
 extra_scripts
 dir

@@ -1,7 +1,7 @@
 10
 
 dir
-4621
+4626
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/src/scripts/src/SpellHandlers
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
@@ -264,40 +264,6 @@ has-props
 
 15978
 
-PetAISpells.cpp
-file
-
-
-
-
-2011-10-04T13:53:40.233503Z
-ea6703637ecf49759d860154b86fc8ef
-2011-09-25T00:24:08.783747Z
-4590
-dfighter1985
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7243
-
 WarlockSpells.cpp
 file
 
@@ -331,6 +297,40 @@ has-props
 
 
 21522
+
+PetAISpells.cpp
+file
+
+
+
+
+2011-10-04T13:53:40.233503Z
+ea6703637ecf49759d860154b86fc8ef
+2011-09-25T00:24:08.783747Z
+4590
+dfighter1985
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7243
 
 HunterSpells.cpp
 file
@@ -400,40 +400,6 @@ has-props
 
 8318
 
-DruidSpells.cpp
-file
-
-
-
-
-2011-10-04T13:53:40.245504Z
-dce2505cb84d1e21649e09d02b0e4532
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5811
-
 ShamanSpells.cpp
 file
 
@@ -467,6 +433,40 @@ has-props
 
 
 4594
+
+DruidSpells.cpp
+file
+
+
+
+
+2011-10-04T13:53:40.245504Z
+dce2505cb84d1e21649e09d02b0e4532
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5811
 
 PaladinSpells.cpp
 file

@@ -1,14 +1,14 @@
 10
 
 dir
-4621
+4626
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/src/arcemu-world
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
 
 
-2011-10-04T15:49:15.675282Z
-4621
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
 
@@ -131,6 +131,40 @@ has-props
 DBC
 dir
 
+Events.h
+file
+
+
+
+
+2011-10-06T20:34:58.014584Z
+e7c8ebc2221f3de4921f443aad43df53
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+856
+
 SpellEffects.cpp
 file
 
@@ -205,33 +239,12 @@ file
 
 
 
-2011-10-04T13:53:30.197929Z
-14c87000994b781760ed39d0c6c66fbc
-2011-09-25T00:24:08.783747Z
-4590
+
+f12181720ec474c06017b2e6275db62c
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21730
 
 PetHandler.cpp
 file
@@ -409,33 +422,12 @@ file
 
 
 
-2011-10-04T13:53:30.246932Z
-db17165ff84d0ee55eabe4303b725124
-2011-08-15T00:19:36.151809Z
-4467
+
+008715e5887e2bcb7c17a6caf1e915cc
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32431
 
 BaseConsole.h
 file
@@ -715,33 +707,12 @@ file
 
 
 
-2011-10-04T13:53:30.267933Z
-19129f98454bdfbce679801dd01d6909
-2011-09-27T17:53:33.199959Z
-4601
+
+a11fbbc24aa466d55174b39f2ec72419
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-100392
 
 DayWatcherThread.h
 file
@@ -1015,6 +986,40 @@ has-props
 
 1001
 
+Mage.h
+file
+
+
+
+
+2011-10-04T13:53:30.286934Z
+9792aea9658d3580fbbf7cf07e807c3b
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+991
+
 Arenas.h
 file
 
@@ -1049,18 +1054,17 @@ has-props
 
 2883
 
-Mage.h
+WorldStatesHandler.h
 file
 
 
 
 
-2011-10-04T13:53:30.286934Z
-9792aea9658d3580fbbf7cf07e807c3b
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
+2011-10-06T20:34:58.027584Z
+01d013dfc3f44d1b014d093fbf3ab841
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 
 
 
@@ -1081,7 +1085,8 @@ has-props
 
 
 
-991
+
+3992
 
 TerrainMgr.h
 file
@@ -1219,40 +1224,6 @@ has-props
 
 8706
 
-Spell_Warrior.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.296935Z
-c7e16e24ccaec5c74a117899b6a66375
-2011-04-14T04:33:28.139251Z
-4151
-wamadeuss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-894
-
 Vehicle.h
 file
 
@@ -1287,17 +1258,17 @@ has-props
 
 12685
 
-MapMgr.h
+Spell_Warrior.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.301935Z
-3919df1a1fce4b16b6834a694d9870c2
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
+2011-10-04T13:53:30.296935Z
+c7e16e24ccaec5c74a117899b6a66375
+2011-04-14T04:33:28.139251Z
+4151
+wamadeuss
 has-props
 
 
@@ -1319,7 +1290,20 @@ has-props
 
 
 
-12148
+894
+
+MapMgr.h
+file
+
+
+
+
+
+158ab7c5dd96c7f5c2e949c14c67b349
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+has-props
 
 DeathKnight.cpp
 file
@@ -1593,40 +1577,6 @@ has-props
 
 7896
 
-Channel.h
-file
-
-
-
-
-2011-10-04T13:53:30.325936Z
-50c4b67f86bb077317f9cbd0c4d951e4
-2011-08-12T20:40:10.558603Z
-4459
-jackpoz
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7296
-
 Paladin.h
 file
 
@@ -1660,6 +1610,40 @@ has-props
 
 
 1006
+
+Channel.h
+file
+
+
+
+
+2011-10-04T13:53:30.325936Z
+50c4b67f86bb077317f9cbd0c4d951e4
+2011-08-12T20:40:10.558603Z
+4459
+jackpoz
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7296
 
 LfgMgr.cpp
 file
@@ -1769,33 +1753,12 @@ file
 
 
 
-2011-10-04T17:43:25.402933Z
-a5bbdb325c18ba1f31939b50b06fe746
-2011-10-04T15:49:15.675282Z
-4621
+
+d66c8f7ed6170783d673b9eba2727da6
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-52591
 
 Unit.h
 file
@@ -1933,40 +1896,6 @@ has-props
 
 2534
 
-GroupHandler.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.346938Z
-1e4fb812e0786ee9b49a4ac4f02098ff
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14119
-
 Warrior.h
 file
 
@@ -2001,14 +1930,14 @@ has-props
 
 1006
 
-CommonScheduleThread.cpp
+GroupHandler.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.357938Z
-255a0280aae4814f2559111006b62057
+2011-10-04T13:53:30.346938Z
+1e4fb812e0786ee9b49a4ac4f02098ff
 2011-08-08T01:09:25.450468Z
 4442
 andy012345
@@ -2033,16 +1962,16 @@ has-props
 
 
 
-3017
+14119
 
-WorldState.h
+ArenaTeam.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.350938Z
-9997df045d12bc4d15c3b01ceda63f7d
+2011-10-04T13:53:30.355938Z
+618963797b08c74bcb2a80790b3921f6
 2011-08-08T01:09:25.450468Z
 4442
 andy012345
@@ -2067,7 +1996,7 @@ has-props
 
 
 
-1225
+16922
 
 LogonCommHandler.h
 file
@@ -2103,14 +2032,14 @@ has-props
 
 3905
 
-ArenaTeam.cpp
+WorldState.h
 file
 
 
 
 
-2011-10-04T13:53:30.355938Z
-618963797b08c74bcb2a80790b3921f6
+2011-10-04T13:53:30.350938Z
+9997df045d12bc4d15c3b01ceda63f7d
 2011-08-08T01:09:25.450468Z
 4442
 andy012345
@@ -2135,7 +2064,41 @@ has-props
 
 
 
-16922
+1225
+
+CommonScheduleThread.cpp
+file
+
+
+
+
+2011-10-04T13:53:30.357938Z
+255a0280aae4814f2559111006b62057
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3017
 
 DatabaseCleaner.cpp
 file
@@ -2721,33 +2684,12 @@ file
 
 
 
-2011-10-04T13:53:30.400941Z
-f2a0dbc00957e48dd0014dd1ef8d30db
-2011-09-25T00:24:08.783747Z
-4590
+
+da094b93d8959fbf501a4ac97b356d78
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-65281
 
 DuelHandler.cpp
 file
@@ -3673,33 +3615,12 @@ file
 
 
 
-2011-10-04T13:53:30.470945Z
-7aa1e455c0ecf26dda2cd10e482676df
-2010-04-03T03:40:17.145200Z
-3251
-eggy
+
+735751da32d533005f03128561a19737
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12517
 
 SpellNameHashes.h
 file
@@ -4381,40 +4302,6 @@ has-props
 
 3280
 
-ArathiBasin.h
-file
-
-
-
-
-2011-10-04T13:53:30.608953Z
-2be1aabd2d476ba05d5a313b0707b221
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3592
-
 SpellProc_Druid.cpp
 file
 
@@ -4448,6 +4335,40 @@ has-props
 
 
 887
+
+ArathiBasin.h
+file
+
+
+
+
+2011-10-04T13:53:30.608953Z
+2be1aabd2d476ba05d5a313b0707b221
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3592
 
 SpellProc_Paladin.cpp
 file
@@ -4523,33 +4444,12 @@ file
 
 
 
-2011-10-04T13:53:30.618953Z
-f56c2961d68b86cf9ad7fdc6f012a73f
-2011-09-10T11:39:12.440165Z
-4545
-jackpoz
+
+e3f334b0ce72cab1ff3c6fe78c0cc731
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-59291
 
 AreaTrigger.h
 file
@@ -4823,40 +4723,6 @@ has-props
 
 2660
 
-Creature.h
-file
-
-
-
-
-2011-10-04T13:53:30.639954Z
-721e41668f7cfc8c6f4a5f7bef7e6808
-2011-09-25T00:24:08.783747Z
-4590
-dfighter1985
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21341
-
 ScriptMgr.h
 file
 
@@ -4890,6 +4756,40 @@ has-props
 
 
 23274
+
+Creature.h
+file
+
+
+
+
+2011-10-04T13:53:30.639954Z
+721e41668f7cfc8c6f4a5f7bef7e6808
+2011-09-25T00:24:08.783747Z
+4590
+dfighter1985
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21341
 
 SummonHandler.h
 file
@@ -4931,33 +4831,12 @@ file
 
 
 
-2011-10-04T13:53:30.646955Z
-71792736d9c452eca0cabd240c59671f
-2011-09-27T17:53:33.199959Z
-4601
+
+3bb766edf1a3c590ea0dc75d77ae9f8f
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-34702
 
 Warrior.cpp
 file
@@ -5061,14 +4940,14 @@ has-props
 
 23425
 
-Level1.cpp
+MovementHandler.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.655955Z
-91fb41000ce2e6a14ee0d8c7a6263d01
+2011-10-04T13:53:30.659956Z
+776e196e7069520b6e5ed93c68dda27b
 2011-09-25T00:24:08.783747Z
 4590
 dfighter1985
@@ -5093,7 +4972,7 @@ has-props
 
 
 
-44234
+33419
 
 HonorHandler.h
 file
@@ -5129,14 +5008,14 @@ has-props
 
 1204
 
-MovementHandler.cpp
+Level1.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.659956Z
-776e196e7069520b6e5ed93c68dda27b
+2011-10-04T13:53:30.655955Z
+91fb41000ce2e6a14ee0d8c7a6263d01
 2011-09-25T00:24:08.783747Z
 4590
 dfighter1985
@@ -5161,41 +5040,7 @@ has-props
 
 
 
-33419
-
-Spell_DeathKnight.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.661956Z
-52057c7d5c6e702700efc9ed7d136622
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9745
+44234
 
 StdAfx.cpp
 file
@@ -5230,6 +5075,40 @@ has-props
 
 
 848
+
+Spell_DeathKnight.cpp
+file
+
+
+
+
+2011-10-04T13:53:30.661956Z
+52057c7d5c6e702700efc9ed7d136622
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9745
 
 ItemHandler.cpp
 file
@@ -5271,33 +5150,25 @@ file
 
 
 
-2011-10-04T13:53:30.667956Z
-ec77a3b10e117f7d4aeae017061fb90c
-2011-09-29T15:41:00.016718Z
-4606
+
+7c69ab077bef327cdf4d451ad577974d
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
+
+WarsongGulch.cpp
+file
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2266
+bab453fc6e870c9543d1b92f77a5bd20
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+has-props
 
 VoiceChatHandler.cpp
 file
@@ -5332,40 +5203,6 @@ has-props
 
 
 1054
-
-WarsongGulch.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.671956Z
-a22a28355281d56abe32cd3acef418fa
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22874
 
 CConsole.cpp
 file
@@ -5577,33 +5414,12 @@ file
 
 
 
-2011-10-04T13:53:30.688957Z
-d085a4c7a784300493128cda34a93dfa
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
+
+21b484dad70bac973e582abd1a207df4
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-64689
 
 Master.cpp
 file
@@ -5679,33 +5495,12 @@ file
 
 
 
-2011-10-04T13:53:30.698958Z
-3fed1820b405dd0a799130b9f329ab31
-2011-09-25T00:24:08.783747Z
-4590
+
+2527fb07187b75fa181e740c0b09c9e8
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-100158
 
 Warlock.cpp
 file
@@ -5911,6 +5706,19 @@ has-props
 
 1267
 
+StrandOfTheAncient.h
+file
+
+
+
+
+
+a14444fa0c144541431a3d0213e9e335
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+has-props
+
 MapScriptInterface.h
 file
 
@@ -5944,40 +5752,6 @@ has-props
 
 
 3639
-
-StrandOfTheAncient.h
-file
-
-
-
-
-2011-10-04T13:53:30.720959Z
-ab225b64b33c41ae3ef3f194f59bfa02
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3643
 
 SpellMgr.h
 file
@@ -6013,40 +5787,6 @@ has-props
 
 3068
 
-resources.rc
-file
-
-
-
-
-2011-10-04T13:53:30.724959Z
-5ec7238c841db002c4f00bd577c9bc7f
-2009-10-05T15:51:56.202797Z
-2950
-dfighter1985
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-41
-
 AreaTrigger.cpp
 file
 
@@ -6080,6 +5820,40 @@ has-props
 
 
 8667
+
+resources.rc
+file
+
+
+
+
+2011-10-04T13:53:30.724959Z
+5ec7238c841db002c4f00bd577c9bc7f
+2009-10-05T15:51:56.202797Z
+2950
+dfighter1985
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41
 
 TradeHandler.cpp
 file
@@ -6251,40 +6025,6 @@ has-props
 
 846
 
-Shaman.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.740960Z
-809547cf734be568b940e7b669bc6c9c
-2011-04-15T21:48:17.164176Z
-4160
-wamadeuss
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-846
-
 Warlock.h
 file
 
@@ -6319,17 +6059,17 @@ has-props
 
 1006
 
-Druid.h
+Shaman.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.744960Z
-77b839aa5212396fe7631f35ffdaa0dd
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
+2011-10-04T13:53:30.740960Z
+809547cf734be568b940e7b669bc6c9c
+2011-04-15T21:48:17.164176Z
+4160
+wamadeuss
 has-props
 
 
@@ -6351,7 +6091,7 @@ has-props
 
 
 
-996
+846
 
 SummonHandler.cpp
 file
@@ -6386,6 +6126,40 @@ andy012345
 
 
 4801
+
+Druid.h
+file
+
+
+
+
+2011-10-04T13:53:30.744960Z
+77b839aa5212396fe7631f35ffdaa0dd
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+996
 
 Vehicle.cpp
 file
@@ -6489,39 +6263,18 @@ has-props
 
 846
 
-MapScriptInterface.cpp
+StrandOfTheAncient.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.753961Z
-51158d59de01c3ad258e7874c31cbcf0
-2011-09-10T11:39:12.440165Z
-4545
-jackpoz
+
+5d0d31b04185e7dc6b0733bd89c8c9e6
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5177
 
 Skill.h
 file
@@ -6557,17 +6310,17 @@ has-props
 
 6954
 
-StrandOfTheAncient.cpp
+MapScriptInterface.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.761961Z
-4bb454cadf5e5c42964b82f830f6bc46
-2011-10-01T00:21:49.738168Z
-4609
-dfighter1985
+2011-10-04T13:53:30.753961Z
+51158d59de01c3ad258e7874c31cbcf0
+2011-09-10T11:39:12.440165Z
+4545
+jackpoz
 has-props
 
 
@@ -6589,7 +6342,7 @@ has-props
 
 
 
-19551
+5177
 
 MiscHandler.cpp
 file
@@ -6665,33 +6418,25 @@ file
 
 
 
-2011-10-04T13:53:30.770962Z
-b3c9eedc0bbda558cb52cf0f6b0ee053
-2011-09-25T00:24:08.783747Z
-4590
+
+3728a3ccc7f4a027d55d1fefa0c1814f
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
+
+StdAfx.h
+file
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29285
+91b0670f4d083681f395eca862294521
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+has-props
 
 Item.cpp
 file
@@ -6726,40 +6471,6 @@ has-props
 
 
 35037
-
-StdAfx.h
-file
-
-
-
-
-2011-10-04T13:53:30.774962Z
-1291e1cf7a19cfb2c81f01eeeb97a4fd
-2011-09-25T00:24:08.783747Z
-4590
-dfighter1985
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6428
 
 GameObject.cpp
 file
@@ -6835,36 +6546,12 @@ file
 
 
 
-2011-10-04T13:53:30.780963Z
-256fb1acd7108b658901b8871e56adaa
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
+
+e34a4c32cc74ffe036517699a6442c49
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3125
-
-Entities
-dir
 
 AchievementMgr.h
 file
@@ -6899,6 +6586,9 @@ has-props
 
 
 14908
+
+Entities
+dir
 
 WeatherMgr.cpp
 file
@@ -6968,40 +6658,6 @@ has-props
 
 64834
 
-SpellProc.h
-file
-
-
-
-
-2011-10-04T13:53:30.790963Z
-9cddf3a737f70648f75fd7367aef9857
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5251
-
 Spell_Mage.cpp
 file
 
@@ -7035,6 +6691,40 @@ has-props
 
 
 893
+
+SpellProc.h
+file
+
+
+
+
+2011-10-04T13:53:30.790963Z
+9cddf3a737f70648f75fd7367aef9857
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5251
 
 RaidHandler.cpp
 file
@@ -7144,67 +6834,12 @@ file
 
 
 
-2011-10-04T13:53:30.804964Z
-ea21f64996c7562e778de88c7043e247
-2011-09-25T00:24:08.783747Z
-4590
+
+70035e197dcb5b51044b382823d9ac48
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23678
-
-LfgMgr.h
-file
-
-
-
-
-2011-10-04T13:53:30.806964Z
-35d90c5fa892f63698b4f9481a59773c
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2376
 
 QuestCommands.cpp
 file
@@ -7240,14 +6875,14 @@ has-props
 
 44324
 
-ArathiBasin.cpp
+LfgMgr.h
 file
 
 
 
 
-2011-10-04T13:53:30.811964Z
-0def24439776d260af31aa7436055fae
+2011-10-04T13:53:30.806964Z
+35d90c5fa892f63698b4f9481a59773c
 2011-08-08T01:09:25.450468Z
 4442
 andy012345
@@ -7272,7 +6907,20 @@ has-props
 
 
 
-34702
+2376
+
+ArathiBasin.cpp
+file
+
+
+
+
+
+5011d022dac46887e5183a02bcff6ab6
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+has-props
 
 LootMgr.h
 file
@@ -7308,18 +6956,17 @@ has-props
 
 4832
 
-Level2.cpp
+EquipmentSetMgr.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.816965Z
-510ed8d2c7ca3cfa25869255dac28986
-2011-09-27T17:53:33.199959Z
-4601
-dfighter1985
-has-props
+2011-10-04T13:53:30.820965Z
+fd58d5a1b9f82dcb263538f95d81331f
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
 
 
 
@@ -7340,7 +6987,8 @@ has-props
 
 
 
-48956
+
+4184
 
 ItemPrototype.h
 file
@@ -7376,50 +7024,16 @@ has-props
 
 21386
 
-EquipmentSetMgr.cpp
+Level2.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.820965Z
-fd58d5a1b9f82dcb263538f95d81331f
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4184
-
-Player.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.828965Z
-88d5d53aa89c48a14ad1fa0a664b8766
-2011-09-25T00:24:08.783747Z
-4590
+2011-10-04T13:53:30.816965Z
+510ed8d2c7ca3cfa25869255dac28986
+2011-09-27T17:53:33.199959Z
+4601
 dfighter1985
 has-props
 
@@ -7442,7 +7056,20 @@ has-props
 
 
 
-381449
+48956
+
+Player.cpp
+file
+
+
+
+
+
+a696dc5f35b5d089cb6c4a15967d77b6
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+has-props
 
 WayPoints.cpp
 file
@@ -7512,40 +7139,6 @@ has-props
 
 1817
 
-DatabaseCleaner.h
-file
-
-
-
-
-2011-10-04T13:53:30.835966Z
-11e68b72ec259fd1ea782c67d4579d96
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1072
-
 SpellProc.cpp
 file
 
@@ -7580,14 +7173,14 @@ has-props
 
 4826
 
-BattlegroundMgr.h
+DatabaseCleaner.h
 file
 
 
 
 
-2011-10-04T13:53:30.840966Z
-0e8f692e39a3cd26f2d6a6b54a024e96
+2011-10-04T13:53:30.835966Z
+11e68b72ec259fd1ea782c67d4579d96
 2011-08-08T01:09:25.450468Z
 4442
 andy012345
@@ -7612,7 +7205,54 @@ has-props
 
 
 
-15794
+1072
+
+BattlegroundMgr.h
+file
+
+
+
+
+
+49ea7352992c5170959e078128c54330
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+has-props
+
+IEventListener.h
+file
+
+
+
+
+2011-10-06T20:34:58.133590Z
+39685e9b301679139f8bc4c70810d66a
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+972
 
 WorldCreator.cpp
 file
@@ -7716,40 +7356,6 @@ has-props
 
 20397
 
-ItemInterface.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.852967Z
-f69030642527d2cfacd3c2d4f20d680e
-2011-08-19T05:10:43.571746Z
-4473
-arcemupatches
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-120845
-
 Spell.cpp
 file
 
@@ -7783,6 +7389,40 @@ has-props
 
 
 182867
+
+ItemInterface.cpp
+file
+
+
+
+
+2011-10-04T13:53:30.852967Z
+f69030642527d2cfacd3c2d4f20d680e
+2011-08-19T05:10:43.571746Z
+4473
+arcemupatches
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+120845
 
 Container.cpp
 file
@@ -7886,40 +7526,6 @@ has-props
 
 1929
 
-InstanceCommands.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.867968Z
-ec576d7f9851ed2425e3a36bed623337
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12614
-
 SpellTarget.cpp
 file
 
@@ -7953,6 +7559,40 @@ has-props
 
 
 25268
+
+InstanceCommands.cpp
+file
+
+
+
+
+2011-10-04T13:53:30.867968Z
+ec576d7f9851ed2425e3a36bed623337
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12614
 
 Pet.cpp
 file
@@ -8124,40 +7764,6 @@ has-props
 
 5559
 
-Channel.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.883968Z
-f8902af8e6dcbe2eeef3bdd077f70c0c
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-25140
-
 Paladin.cpp
 file
 
@@ -8191,6 +7797,40 @@ has-props
 
 
 846
+
+Channel.cpp
+file
+
+
+
+
+2011-10-04T13:53:30.883968Z
+f8902af8e6dcbe2eeef3bdd077f70c0c
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25140
 
 AIInterface.h
 file
@@ -8328,40 +7968,6 @@ has-props
 
 2127
 
-WorldState.cpp
-file
-
-
-
-
-2011-10-04T13:53:30.897969Z
-7371f8bcffaf76e6d8a859bd71ec8b32
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1132
-
 LogonCommHandler.cpp
 file
 
@@ -8395,6 +8001,40 @@ has-props
 
 
 13922
+
+WorldState.cpp
+file
+
+
+
+
+2011-10-04T13:53:30.897969Z
+7371f8bcffaf76e6d8a859bd71ec8b32
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1132
 
 CollideInterface.cpp
 file
@@ -8498,17 +8138,17 @@ has-props
 
 275
 
-GuildHandler.cpp
+CommonScheduleThread.h
 file
 
 
 
 
-2011-10-04T13:53:30.909970Z
-d013aa76c2c0b8f1b8924a47094cef6e
-2011-08-12T20:40:10.558603Z
-4459
-jackpoz
+2011-10-04T13:53:30.913970Z
+14d36064da2374f14b7d01b2c7e2d8e7
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
 has-props
 
 
@@ -8530,7 +8170,7 @@ has-props
 
 
 
-52334
+1354
 
 ArenaTeam.h
 file
@@ -8566,17 +8206,17 @@ has-props
 
 2867
 
-CommonScheduleThread.h
+GuildHandler.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.913970Z
-14d36064da2374f14b7d01b2c7e2d8e7
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
+2011-10-04T13:53:30.909970Z
+d013aa76c2c0b8f1b8924a47094cef6e
+2011-08-12T20:40:10.558603Z
+4459
+jackpoz
 has-props
 
 
@@ -8598,7 +8238,7 @@ has-props
 
 
 
-1354
+52334
 
 Stats.h
 file
@@ -8702,39 +8342,52 @@ has-props
 
 25022
 
+MapMgrEventHandlers.cpp
+file
+
+
+
+
+2011-10-06T20:34:58.161592Z
+52a44d23ebbb460542a0dda64773e69c
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1911
+
 Arenas.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.921971Z
-21b4da1e11f53a1dd96bd190834221df
-2011-08-12T20:40:10.558603Z
-4459
-jackpoz
+
+9f3ea91ddd067c5a4e2ca67293eb4128
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-19556
 
 Mage.cpp
 file
@@ -8770,39 +8423,52 @@ has-props
 
 846
 
+WorldStatesHandler.cpp
+file
+
+
+
+
+2011-10-06T20:34:58.165592Z
+bacc15bef66dad1ad582d89828ed79d9
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2927
+
 ObjectMgr.cpp
 file
 
 
 
 
-2011-10-04T13:53:30.926971Z
-c1885130b17f27f5f81adbae7f60280e
-2011-09-25T00:24:08.783747Z
-4590
+
+0cf075a1e95450121c6ce0fdc15d075e
+2011-10-06T19:04:34.107192Z
+4626
 dfighter1985
 has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-91876
 
 VehicleHandler.cpp
 file

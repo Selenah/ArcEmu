@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 39
-/svnroot/arcemu/!svn/ver/4606/trunk/sql
+/svnroot/arcemu/!svn/ver/4626/trunk/sql
 END
 4479_character_structure.sql
 K 25
@@ -9,11 +9,11 @@ svn:wc:ra_dav:version-url
 V 68
 /svnroot/arcemu/!svn/ver/4479/trunk/sql/4479_character_structure.sql
 END
-4606_world_structure.sql
+4626_world_structure.sql
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/arcemu/!svn/ver/4606/trunk/sql/4606_world_structure.sql
+/svnroot/arcemu/!svn/ver/4626/trunk/sql/4626_world_structure.sql
 END
 2834_logon_structure.sql
 K 25

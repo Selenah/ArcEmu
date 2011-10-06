@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/arcemu/!svn/ver/4517/trunk/src/scripts/src/InstanceScripts
+/svnroot/arcemu/!svn/ver/4626/trunk/src/scripts/src/InstanceScripts
 END
 Instance_AzjolNerub.cpp
 K 25
@@ -99,23 +99,17 @@ svn:wc:ra_dav:version-url
 V 95
 /svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Raid_TheObsidianSanctum.cpp
 END
-Instance_RagefireChasm.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_RagefireChasm.cpp
-END
 Instance_UtgardeKeep.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 92
 /svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_UtgardeKeep.cpp
 END
-Instance_RazorfenDowns.cpp
+Instance_RagefireChasm.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_RazorfenDowns.cpp
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_RagefireChasm.cpp
 END
 Instance_BlackMorass.cpp
 K 25
@@ -123,17 +117,17 @@ svn:wc:ra_dav:version-url
 V 92
 /svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_BlackMorass.cpp
 END
+Instance_RazorfenDowns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_RazorfenDowns.cpp
+END
 Instance_BlackrockDepths.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 96
 /svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_BlackrockDepths.cpp
-END
-Instance_HellfireRamparts.cpp
-K 25
-svn:wc:ra_dav:version-url
-V 97
-/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_HellfireRamparts.cpp
 END
 Raid_GruulsLair.cpp
 K 25
@@ -141,17 +135,23 @@ svn:wc:ra_dav:version-url
 V 87
 /svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Raid_GruulsLair.cpp
 END
-Instance_Mauradon.cpp
+Instance_HellfireRamparts.cpp
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_Mauradon.cpp
+V 97
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_HellfireRamparts.cpp
 END
 Raid_Magtheridons_Lair.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 94
 /svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Raid_Magtheridons_Lair.cpp
+END
+Instance_Mauradon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_Mauradon.cpp
 END
 Raid_Ulduar.cpp
 K 25
@@ -229,7 +229,7 @@ Instance_OldHillsbradFoothills.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 102
-/svnroot/arcemu/!svn/ver/4442/trunk/src/scripts/src/InstanceScripts/Instance_OldHillsbradFoothills.cpp
+/svnroot/arcemu/!svn/ver/4626/trunk/src/scripts/src/InstanceScripts/Instance_OldHillsbradFoothills.cpp
 END
 Raid_ZulGurub.cpp
 K 25

@@ -1,15 +1,15 @@
 10
 
 dir
-4621
+4626
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/src/scripts/src/InstanceScripts
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
 
 
-2011-09-04T10:58:41.064917Z
-4517
-jackpoz
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 
 
 
@@ -471,40 +471,6 @@ has-props
 
 4730
 
-Instance_TheStockade.cpp
-file
-
-
-
-
-2011-10-04T13:53:47.035892Z
-91638a3c15372f542b4bf79890087ee2
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-20153
-
 Raid_BlackTemple.cpp
 file
 
@@ -538,6 +504,40 @@ has-props
 
 
 232749
+
+Instance_TheStockade.cpp
+file
+
+
+
+
+2011-10-04T13:53:47.035892Z
+91638a3c15372f542b4bf79890087ee2
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20153
 
 Raid_TheObsidianSanctum.cpp
 file
@@ -573,40 +573,6 @@ has-props
 
 13019
 
-Instance_UtgardeKeep.cpp
-file
-
-
-
-
-2011-10-04T13:53:47.046893Z
-971ef5230518fe579c52950e93b26f38
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29479
-
 Instance_RagefireChasm.cpp
 file
 
@@ -641,14 +607,14 @@ has-props
 
 7377
 
-Instance_BlackMorass.cpp
+Instance_UtgardeKeep.cpp
 file
 
 
 
 
-2011-10-04T13:53:47.050893Z
-b90dcb3dd6237e855ffe038d870b6eaf
+2011-10-04T13:53:47.046893Z
+971ef5230518fe579c52950e93b26f38
 2011-08-08T01:09:25.450468Z
 4442
 andy012345
@@ -673,7 +639,7 @@ has-props
 
 
 
-13564
+29479
 
 Instance_RazorfenDowns.cpp
 file
@@ -709,6 +675,40 @@ has-props
 
 15072
 
+Instance_BlackMorass.cpp
+file
+
+
+
+
+2011-10-04T13:53:47.050893Z
+b90dcb3dd6237e855ffe038d870b6eaf
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13564
+
 Instance_BlackrockDepths.cpp
 file
 
@@ -742,43 +742,6 @@ has-props
 
 
 67673
-
-SUNWELL_PLAT
-dir
-
-Raid_GruulsLair.cpp
-file
-
-
-
-
-2011-10-04T13:53:47.077895Z
-52c822775d3cf76b58799ae0ac076e71
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21963
 
 Instance_HellfireRamparts.cpp
 file
@@ -814,14 +777,14 @@ has-props
 
 6982
 
-Raid_Magtheridons_Lair.cpp
+Raid_GruulsLair.cpp
 file
 
 
 
 
-2011-10-04T13:53:47.082895Z
-7e931ad79df0eb759a58c68b542f0ac2
+2011-10-04T13:53:47.077895Z
+52c822775d3cf76b58799ae0ac076e71
 2011-08-08T01:09:25.450468Z
 4442
 andy012345
@@ -846,7 +809,10 @@ has-props
 
 
 
-55918
+21963
+
+SUNWELL_PLAT
+dir
 
 Instance_Mauradon.cpp
 file
@@ -881,6 +847,40 @@ has-props
 
 
 23972
+
+Raid_Magtheridons_Lair.cpp
+file
+
+
+
+
+2011-10-04T13:53:47.082895Z
+7e931ad79df0eb759a58c68b542f0ac2
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55918
 
 Raid_Ulduar.cpp
 file
@@ -1296,11 +1296,11 @@ file
 
 
 
-2011-10-04T13:53:47.135898Z
-ddbba0f421f44d871758da670f18ee1d
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
+2011-10-06T20:34:59.253655Z
+c70a77563951f02b0d95b1d34447f0f6
+2011-10-06T19:04:34.107192Z
+4626
+dfighter1985
 has-props
 
 
@@ -1322,7 +1322,7 @@ has-props
 
 
 
-11216
+11246
 
 Raid_ZulGurub.cpp
 file

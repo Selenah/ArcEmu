@@ -1,16 +1,22 @@
-/****************************************************************************
+/***********************************************************************************************
+ * Servidor ArcEmu MMORPG
  *
- * General Object Type File
- * Copyright (c) 2007 Team Ascent
+ * Copyright (C) 2011 <http://www.ArcEmu.es/> 
  *
- * This file may be distributed under the terms of the Q Public License
- * as defined by Trolltech ASA of Norway and appearing in the file
- * COPYING included in the packaging of this file.
+ * Este programa es software libre: usted puede redistribuirlo y modificarlo
+ * Bajo los términos de la licencia GNU Affero General Public License publicada por
+ * La Fundacion del Software gratuito, ya sea la versión 3 de la Licencia, o
+ * Cualquier versión posterior.
  *
- * This file is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE
- * WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+ * Este programa se distribuye con la esperanza de que sea útil, 
+ * Pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de
+ * O IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Ver el 
+ * GNU Affero General Public License para más detalles.
  *
-*/
+ * Usted debe haber recibido una copia de la licencia GNU Affero General licencia publica
+ * Junto con este programa. Si no es así, consulte <http://www.gnu.org/licenses/>. 
+ *
+ */
 
 #include "StdAfx.h"
 

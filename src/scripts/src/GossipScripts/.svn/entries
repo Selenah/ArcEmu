@@ -1,7 +1,7 @@
 10
 
 dir
-4621
+4626
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/src/scripts/src/GossipScripts
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
@@ -128,40 +128,6 @@ has-props
 
 1657
 
-Gossip_DarkmoonFaire.cpp
-file
-
-
-
-
-2011-10-04T13:53:44.527749Z
-ec927a058b28f156468e7b75ca99b68a
-2011-08-12T22:01:42.191580Z
-4461
-jackpoz
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-41840
-
 Setup.h
 file
 
@@ -195,6 +161,40 @@ has-props
 
 
 1604
+
+Gossip_DarkmoonFaire.cpp
+file
+
+
+
+
+2011-10-04T13:53:44.527749Z
+ec927a058b28f156468e7b75ca99b68a
+2011-08-12T22:01:42.191580Z
+4461
+jackpoz
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41840
 
 Gossip_BoreanTundra.cpp
 file
@@ -230,40 +230,6 @@ has-props
 
 639
 
-Gossip_Stormwind.cpp
-file
-
-
-
-
-2011-10-04T13:53:44.533749Z
-939c654faf2e5b79b6df3611acb7d7d2
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2472
-
 Gossip_Theramore.cpp
 file
 
@@ -297,6 +263,40 @@ has-props
 
 
 2299
+
+Gossip_Stormwind.cpp
+file
+
+
+
+
+2011-10-04T13:53:44.533749Z
+939c654faf2e5b79b6df3611acb7d7d2
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2472
 
 Gossip_Tanaris.cpp
 file
@@ -332,40 +332,6 @@ has-props
 
 2192
 
-Gossip_Guard.cpp
-file
-
-
-
-
-2011-10-04T13:53:44.539749Z
-4107bf9bb5c3e80ccae13064d438bb3c
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-118089
-
 Gossip_Shattrath.cpp
 file
 
@@ -400,17 +366,17 @@ has-props
 
 3342
 
-Gossip_Innkeepers.cpp
+Gossip_Guard.cpp
 file
 
 
 
 
-2011-10-04T13:53:44.543750Z
-68638d93c1f856d5069cb89d49db0688
-2011-09-05T11:42:55.634525Z
-4526
-jackpoz
+2011-10-04T13:53:44.539749Z
+4107bf9bb5c3e80ccae13064d438bb3c
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
 has-props
 
 
@@ -432,7 +398,7 @@ has-props
 
 
 
-10467
+118089
 
 Gossip_WyrmrestTemple.cpp
 file
@@ -467,6 +433,40 @@ has-props
 
 
 3318
+
+Gossip_Innkeepers.cpp
+file
+
+
+
+
+2011-10-04T13:53:44.543750Z
+68638d93c1f856d5069cb89d49db0688
+2011-09-05T11:42:55.634525Z
+4526
+jackpoz
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10467
 
 Gossip_Trainer.cpp
 file
