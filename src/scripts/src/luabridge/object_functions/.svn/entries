@@ -1,7 +1,7 @@
 10
 
 dir
-4626
+4629
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/src/scripts/src/luabridge/object_functions
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
@@ -25,40 +25,6 @@ jackpoz
 
 
 990fb233-584f-0410-a668-b69381bdf79e
-
-object_functions.cpp
-file
-
-
-
-
-2011-10-04T13:53:47.945944Z
-840f883f71f856d31e50850368e121ee
-2011-08-22T12:36:54.925434Z
-4490
-jackpoz
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9524
 
 GlobalFunctions.h
 file
@@ -93,6 +59,40 @@ has-props
 
 
 14800
+
+object_functions.cpp
+file
+
+
+
+
+2011-10-04T13:53:47.945944Z
+840f883f71f856d31e50850368e121ee
+2011-08-22T12:36:54.925434Z
+4490
+jackpoz
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9524
 
 packet_functions.cpp
 file
@@ -196,40 +196,6 @@ andy012345
 
 5371
 
-spell_functions.cpp
-file
-
-
-
-
-2011-10-04T13:53:47.957945Z
-de4ef7b57b278dd94e07292c8c17a4f7
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7751
-
 unit_functions.cpp
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 90801
+
+spell_functions.cpp
+file
+
+
+
+
+2011-10-04T13:53:47.957945Z
+de4ef7b57b278dd94e07292c8c17a4f7
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7751
 
 register_functions.cpp
 file
@@ -298,40 +298,6 @@ has-props
 
 11479
 
-lua_creature.h
-file
-
-
-
-
-2011-10-04T13:53:47.963945Z
-9a047244d5844c1843f35860f6d6a8e1
-2011-08-08T01:09:25.450468Z
-4442
-andy012345
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4720
-
 aura_functions.cpp
 file
 
@@ -366,18 +332,17 @@ has-props
 
 1520
 
-player_functions.cpp
+lua_creature.h
 file
 
 
 
 
-2011-10-04T13:53:47.966946Z
-e4b8cfb6246f5f637b7d61d6a81b6f38
+2011-10-04T13:53:47.963945Z
+9a047244d5844c1843f35860f6d6a8e1
 2011-08-08T01:09:25.450468Z
 4442
 andy012345
-has-props
 
 
 
@@ -398,7 +363,8 @@ has-props
 
 
 
-24422
+
+4720
 
 lua_hooks.cpp
 file
@@ -433,6 +399,40 @@ has-props
 
 
 20388
+
+player_functions.cpp
+file
+
+
+
+
+2011-10-04T13:53:47.966946Z
+e4b8cfb6246f5f637b7d61d6a81b6f38
+2011-08-08T01:09:25.450468Z
+4442
+andy012345
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24422
 
 item_functions.cpp
 file

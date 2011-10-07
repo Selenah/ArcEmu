@@ -1,7 +1,7 @@
 10
 
 dir
-4626
+4629
 https://arcemu.svn.sourceforge.net/svnroot/arcemu/trunk/dep/src/g3dlite
 https://arcemu.svn.sourceforge.net/svnroot/arcemu
 
@@ -25,40 +25,6 @@ andy012345
 
 
 990fb233-584f-0410-a668-b69381bdf79e
-
-Color1.cpp
-file
-
-
-
-
-2011-10-04T13:54:35.937689Z
-c7f4825ba60e1f474f553f85899c4555
-2011-03-21T00:38:22.246972Z
-4078
-andy012345
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-883
 
 GCamera.cpp
 file
@@ -93,6 +59,40 @@ andy012345
 
 
 14501
+
+Color1.cpp
+file
+
+
+
+
+2011-10-04T13:54:35.937689Z
+c7f4825ba60e1f474f553f85899c4555
+2011-03-21T00:38:22.246972Z
+4078
+andy012345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+883
 
 fileutils.cpp
 file
@@ -162,40 +162,6 @@ andy012345
 
 8834
 
-Color4.cpp
-file
-
-
-
-
-2011-10-04T13:54:35.988692Z
-fa7ab8b7eac95817e9bff950a9138ad2
-2011-03-21T00:38:22.246972Z
-4078
-andy012345
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4299
-
 CoordinateFrame.cpp
 file
 
@@ -229,6 +195,40 @@ andy012345
 
 
 11093
+
+Color4.cpp
+file
+
+
+
+
+2011-10-04T13:54:35.988692Z
+fa7ab8b7eac95817e9bff950a9138ad2
+2011-03-21T00:38:22.246972Z
+4078
+andy012345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4299
 
 Vector3int16.cpp
 file
@@ -366,14 +366,14 @@ andy012345
 
 932
 
-Cone.cpp
+System.cpp
 file
 
 
 
 
-2011-10-04T13:54:35.997693Z
-7990d2cece20decf3dc4874555cb52ac
+2011-10-04T13:54:35.993692Z
+b4e52a517e5bbee9f730bf86fcbbb0aa
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -398,7 +398,7 @@ andy012345
 
 
 
-1733
+47712
 
 GImage_tga.cpp
 file
@@ -434,14 +434,14 @@ andy012345
 
 4839
 
-System.cpp
+Cone.cpp
 file
 
 
 
 
-2011-10-04T13:54:35.993692Z
-b4e52a517e5bbee9f730bf86fcbbb0aa
+2011-10-04T13:54:35.997693Z
+7990d2cece20decf3dc4874555cb52ac
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -466,7 +466,7 @@ andy012345
 
 
 
-47712
+1733
 
 SplineBase.cpp
 file
@@ -1046,40 +1046,6 @@ andy012345
 
 4460
 
-constants.cpp
-file
-
-
-
-
-2011-10-04T13:54:36.078697Z
-de97113db3a962819423eea73fc014ba
-2011-03-21T00:38:22.246972Z
-4078
-andy012345
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2174
-
 Stopwatch.cpp
 file
 
@@ -1114,14 +1080,14 @@ andy012345
 
 3332
 
-GLight.cpp
+constants.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.081698Z
-a86baa7c21bcf04373840b2fd325241b
+2011-10-04T13:54:36.078697Z
+de97113db3a962819423eea73fc014ba
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -1146,7 +1112,7 @@ andy012345
 
 
 
-8055
+2174
 
 g3dfnmatch.cpp
 file
@@ -1182,14 +1148,14 @@ andy012345
 
 6886
 
-Random.cpp
+GLight.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.088698Z
-6271a0c629408eab9caaac1747c2bb5d
+2011-10-04T13:54:36.081698Z
+a86baa7c21bcf04373840b2fd325241b
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -1214,41 +1180,7 @@ andy012345
 
 
 
-5270
-
-MeshAlg.cpp
-file
-
-
-
-
-2011-10-04T13:54:36.084698Z
-e140e3bfdee0abfee398f6ba841ddbd5
-2011-03-21T00:38:22.246972Z
-4078
-andy012345
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17981
+8055
 
 Crypto.cpp
 file
@@ -1284,14 +1216,14 @@ andy012345
 
 3266
 
-MeshAlgAdjacency.cpp
+MeshAlg.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.090698Z
-1c14a0908fc77f2f11666ffdac728119
+2011-10-04T13:54:36.084698Z
+e140e3bfdee0abfee398f6ba841ddbd5
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -1316,7 +1248,41 @@ andy012345
 
 
 
-22720
+17981
+
+Random.cpp
+file
+
+
+
+
+2011-10-04T13:54:36.088698Z
+6271a0c629408eab9caaac1747c2bb5d
+2011-03-21T00:38:22.246972Z
+4078
+andy012345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5270
 
 license.cpp
 file
@@ -1351,6 +1317,40 @@ andy012345
 
 
 3210
+
+MeshAlgAdjacency.cpp
+file
+
+
+
+
+2011-10-04T13:54:36.090698Z
+1c14a0908fc77f2f11666ffdac728119
+2011-03-21T00:38:22.246972Z
+4078
+andy012345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22720
 
 Vector2.cpp
 file
@@ -1420,40 +1420,6 @@ andy012345
 
 17293
 
-Sphere.cpp
-file
-
-
-
-
-2011-10-04T13:54:36.160702Z
-2e4f837fde163d0ac1644eb7e285fb65
-2011-03-21T00:38:22.246972Z
-4078
-andy012345
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5557
-
 Vector4.cpp
 file
 
@@ -1488,14 +1454,14 @@ andy012345
 
 26849
 
-CollisionDetection.cpp
+Sphere.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.163702Z
-e716994a29aa4459440d5c1b8da2ca1b
+2011-10-04T13:54:36.160702Z
+2e4f837fde163d0ac1644eb7e285fb65
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -1520,7 +1486,7 @@ andy012345
 
 
 
-73426
+5557
 
 Color4uint8.cpp
 file
@@ -1556,14 +1522,14 @@ andy012345
 
 906
 
-Ray.cpp
+CollisionDetection.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.167702Z
-18d83f36339de5425bdb928d2bc66087
+2011-10-04T13:54:36.163702Z
+e716994a29aa4459440d5c1b8da2ca1b
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -1588,41 +1554,7 @@ andy012345
 
 
 
-5353
-
-ImageFormat_convert.cpp
-file
-
-
-
-
-2011-10-04T13:54:36.166702Z
-6211d9872f66d04862f382dcf3863ece
-2011-03-21T00:38:22.246972Z
-4078
-andy012345
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-54946
+73426
 
 Image1uint8.cpp
 file
@@ -1658,14 +1590,14 @@ andy012345
 
 5105
 
-NetAddress.cpp
+ImageFormat_convert.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.219705Z
-187f7c9f58b2d5fceb62003f6fb05a28
+2011-10-04T13:54:36.166702Z
+6211d9872f66d04862f382dcf3863ece
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -1690,7 +1622,41 @@ andy012345
 
 
 
-3412
+54946
+
+Ray.cpp
+file
+
+
+
+
+2011-10-04T13:54:36.167702Z
+18d83f36339de5425bdb928d2bc66087
+2011-03-21T00:38:22.246972Z
+4078
+andy012345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5353
 
 AreaMemoryManager.cpp
 file
@@ -1725,6 +1691,40 @@ andy012345
 
 
 1706
+
+NetAddress.cpp
+file
+
+
+
+
+2011-10-04T13:54:36.219705Z
+187f7c9f58b2d5fceb62003f6fb05a28
+2011-03-21T00:38:22.246972Z
+4078
+andy012345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3412
 
 Intersect.cpp
 file
@@ -1794,14 +1794,14 @@ andy012345
 
 3840
 
-GImage_ppm.cpp
+Vector3int32.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.261708Z
-9a36f68b8bf484976cc33244e7fcb8d7
+2011-10-04T13:54:36.257708Z
+3ac0c7edcf8e999f3721973d86c8d019
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -1826,7 +1826,7 @@ andy012345
 
 
 
-6245
+1072
 
 Triangle.cpp
 file
@@ -1862,14 +1862,14 @@ andy012345
 
 4097
 
-Vector3int32.cpp
+GImage_ppm.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.257708Z
-3ac0c7edcf8e999f3721973d86c8d019
+2011-10-04T13:54:36.261708Z
+9a36f68b8bf484976cc33244e7fcb8d7
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -1894,7 +1894,7 @@ andy012345
 
 
 
-1072
+6245
 
 ReferenceCount.cpp
 file
@@ -2066,14 +2066,14 @@ andy012345
 
 610
 
-Color1uint8.cpp
+g3dmath.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.331712Z
-124b5aed4e7b0baf6adebbfb4c0f24c3
+2011-10-04T13:54:36.327712Z
+8f8d217682f0ca96d7dbe440ce7cb358
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -2098,7 +2098,7 @@ andy012345
 
 
 
-672
+2482
 
 GImage_bmp.cpp
 file
@@ -2134,14 +2134,14 @@ andy012345
 
 20514
 
-g3dmath.cpp
+Color1uint8.cpp
 file
 
 
 
 
-2011-10-04T13:54:36.327712Z
-8f8d217682f0ca96d7dbe440ce7cb358
+2011-10-04T13:54:36.331712Z
+124b5aed4e7b0baf6adebbfb4c0f24c3
 2011-03-21T00:38:22.246972Z
 4078
 andy012345
@@ -2166,7 +2166,7 @@ andy012345
 
 
 
-2482
+672
 
 format.cpp
 file

@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/svnroot/arcemu/!svn/ver/4626/trunk/sql/world_updates
-END
-4590_vehicles.sql
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svnroot/arcemu/!svn/ver/4590/trunk/sql/world_updates/4590_vehicles.sql
+/svnroot/arcemu/!svn/ver/4627/trunk/sql/world_updates
 END
 3861_go_loot.sql
 K 25
@@ -15,17 +9,23 @@ svn:wc:ra_dav:version-url
 V 70
 /svnroot/arcemu/!svn/ver/3861/trunk/sql/world_updates/3861_go_loot.sql
 END
-672_instance-system.sql
+4590_vehicles.sql
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/672_instance-system.sql
+V 71
+/svnroot/arcemu/!svn/ver/4590/trunk/sql/world_updates/4590_vehicles.sql
 END
 1174_worldstring_tables.sql
 K 25
 svn:wc:ra_dav:version-url
 V 81
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1174_worldstring_tables.sql
+END
+672_instance-system.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/672_instance-system.sql
 END
 581_items_extendedcost.sql
 K 25
@@ -51,17 +51,17 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2834_worldstring.sql
 END
-4378_totemspells.sql
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svnroot/arcemu/!svn/ver/4411/trunk/sql/world_updates/4378_totemspells.sql
-END
 1564_items.sql
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1564_items.sql
+END
+4378_totemspells.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/arcemu/!svn/ver/4411/trunk/sql/world_updates/4378_totemspells.sql
 END
 3055_ah.sql
 K 25
@@ -69,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/3055_ah.sql
 END
-3825_rockbiter.sql
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svnroot/arcemu/!svn/ver/3825/trunk/sql/world_updates/3825_rockbiter.sql
-END
 3464_death_state.sql
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/3464_death_state.sql
+END
+3825_rockbiter.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/3825/trunk/sql/world_updates/3825_rockbiter.sql
 END
 678_ai_threattospell.sql
 K 25
@@ -195,17 +195,17 @@ svn:wc:ra_dav:version-url
 V 70
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/3030_revert2.sql
 END
-1497_bugfixes.sql
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1497_bugfixes.sql
-END
 2860_items.sql
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2860_items.sql
+END
+1497_bugfixes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1497_bugfixes.sql
 END
 2860_gameobject_overrides.sql
 K 25
@@ -213,17 +213,17 @@ svn:wc:ra_dav:version-url
 V 83
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2860_gameobject_overrides.sql
 END
-4296_totemdisplayids.sql
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svnroot/arcemu/!svn/ver/4411/trunk/sql/world_updates/4296_totemdisplayids.sql
-END
 1902_trainers.sql
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1902_trainers.sql
+END
+4296_totemdisplayids.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/arcemu/!svn/ver/4411/trunk/sql/world_updates/4296_totemdisplayids.sql
 END
 3006_flagsextra.sql
 K 25
@@ -231,17 +231,17 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/3006_flagsextra.sql
 END
+4626_worldstate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/arcemu/!svn/ver/4627/trunk/sql/world_updates/4626_worldstate.sql
+END
 4524_gossip_texts.sql
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svnroot/arcemu/!svn/ver/4524/trunk/sql/world_updates/4524_gossip_texts.sql
-END
-4626_worldstate.sql
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svnroot/arcemu/!svn/ver/4626/trunk/sql/world_updates/4626_worldstate.sql
 END
 1174_worldstring_tables_localized.sql
 K 25
@@ -249,17 +249,17 @@ svn:wc:ra_dav:version-url
 V 91
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1174_worldstring_tables_localized.sql
 END
-744_spellfixes.sql
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/744_spellfixes.sql
-END
 3021_revert.sql
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/3021_revert.sql
+END
+744_spellfixes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/744_spellfixes.sql
 END
 3998_teleportspells.sql
 K 25
@@ -267,11 +267,11 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/arcemu/!svn/ver/4425/trunk/sql/world_updates/3998_teleportspells.sql
 END
-2387_LightWell.sql
+3567_display_bounding_boxes.sql
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2387_LightWell.sql
+V 85
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/3567_display_bounding_boxes.sql
 END
 2806_trainingdummies.sql
 K 25
@@ -279,11 +279,11 @@ svn:wc:ra_dav:version-url
 V 78
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2806_trainingdummies.sql
 END
-3567_display_bounding_boxes.sql
+2387_LightWell.sql
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/3567_display_bounding_boxes.sql
+V 72
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2387_LightWell.sql
 END
 104_rituals_objects.sql
 K 25
@@ -297,17 +297,17 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2780_spell_proc.sql
 END
-3812_quest_poi.sql
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svnroot/arcemu/!svn/ver/3812/trunk/sql/world_updates/3812_quest_poi.sql
-END
 2177_sota_battlemaster_gossip_text.sql
 K 25
 svn:wc:ra_dav:version-url
 V 92
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2177_sota_battlemaster_gossip_text.sql
+END
+3812_quest_poi.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/arcemu/!svn/ver/3812/trunk/sql/world_updates/3812_quest_poi.sql
 END
 1174_worldbroadcast.sql
 K 25
@@ -315,17 +315,17 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1174_worldbroadcast.sql
 END
-2118_items.sql
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2118_items.sql
-END
 1746_spawns.sql
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1746_spawns.sql
+END
+2118_items.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2118_items.sql
 END
 2750_gameobject_names.sql
 K 25
@@ -333,17 +333,17 @@ svn:wc:ra_dav:version-url
 V 79
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2750_gameobject_names.sql
 END
-616_quests_rewrep.sql
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/616_quests_rewrep.sql
-END
 2582_quests.sql
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2582_quests.sql
+END
+616_quests_rewrep.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/616_quests_rewrep.sql
 END
 3807_quests.sql
 K 25
@@ -357,29 +357,29 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/arcemu/!svn/ver/3820/trunk/sql/world_updates/3820_championing.sql
 END
-3955_trainer_spells.sql
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svnroot/arcemu/!svn/ver/3955/trunk/sql/world_updates/3955_trainer_spells.sql
-END
 3933_tmpenchantdurations.sql
 K 25
 svn:wc:ra_dav:version-url
 V 82
 /svnroot/arcemu/!svn/ver/3933/trunk/sql/world_updates/3933_tmpenchantdurations.sql
 END
-1797_transport_data.sql
+3955_trainer_spells.sql
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1797_transport_data.sql
+/svnroot/arcemu/!svn/ver/3955/trunk/sql/world_updates/3955_trainer_spells.sql
 END
 2986_quests.sql
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/2986_quests.sql
+END
+1797_transport_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/arcemu/!svn/ver/3711/trunk/sql/world_updates/1797_transport_data.sql
 END
 1658_playercreateinfo_intros.sql
 K 25
